@@ -1,0 +1,134 @@
+[
+  {
+    "id": "071",
+    "short_name": "C",
+    "linweb": "C",
+    "linsae": "071",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Estacion de Autobuses - Polideportivo - C. Salud Acequion",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=071"
+  },
+  {
+    "id": "081",
+    "short_name": "01",
+    "linweb": "01",
+    "linsae": "081",
+    "empresa": null,
+    "long_name": "Hospital - Los Altos - Punta Prima - Rocio del Mar",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=081"
+  },
+  {
+    "id": "082",
+    "short_name": "02",
+    "linweb": "02",
+    "linsae": "082",
+    "empresa": null,
+    "long_name": "Hospital - Los Balcones - Lago Jardin",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=082"
+  },
+  {
+    "id": "083",
+    "short_name": "03",
+    "linweb": "03",
+    "linsae": "083",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Desiderio Rodriguez - Mar Azul - Hospital",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=083"
+  },
+  {
+    "id": "084",
+    "short_name": "04",
+    "linweb": "04",
+    "linsae": "084",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Centros Comerciales - La Torreta - C. Salud La Siesta",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=084"
+  },
+  {
+    "id": "085",
+    "short_name": "05",
+    "linweb": "05",
+    "linsae": "085",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Centros Comerciales - C. Salud La Siesta - San Luis",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=085"
+  },
+  {
+    "id": "086",
+    "short_name": "06",
+    "linweb": "06",
+    "linsae": "086",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Polideportivo - Hospital Quiron - C. Salud La Mata",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=086"
+  },
+  {
+    "id": "087",
+    "short_name": "07",
+    "linweb": "07",
+    "linsae": "087",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Ramon Gallud - Av. Paris - La Mata",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=087"
+  },
+  {
+    "id": "088",
+    "short_name": "08",
+    "linweb": "08",
+    "linsae": "088",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Cabo Cervera - Estacion de Autobuses - La Mata",
+    "type": "bus",
+    "is_night": false,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=088"
+  },
+  {
+    "id": "091",
+    "short_name": "N1",
+    "linweb": "N1",
+    "linsae": "091",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Playa Los Locos - Polideportivo - La Mata",
+    "type": "bus",
+    "is_night": true,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=091"
+  },
+  {
+    "id": "092",
+    "short_name": "N2",
+    "linweb": "N2",
+    "linsae": "092",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Centros Comerciales - La Torreta - San Luis",
+    "type": "bus",
+    "is_night": true,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=092"
+  },
+  {
+    "id": "093",
+    "short_name": "N3",
+    "linweb": "N3",
+    "linsae": "093",
+    "empresa": null,
+    "long_name": "Gregorio Maranon - Desiderio Rodriguez - Los Balcones - Los Altos",
+    "type": "bus",
+    "is_night": true,
+    "source_url": "https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=093"
+  }
+]

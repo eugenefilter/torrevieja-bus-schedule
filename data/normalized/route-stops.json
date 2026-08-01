@@ -1,0 +1,2954 @@
+[
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "985",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "987",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "438",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "439",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "988",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "109",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "501",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "502",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "992",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "993",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "994",
+    "stop_sequence": 13,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "555",
+    "stop_sequence": 14,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "995",
+    "stop_sequence": 15,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "996",
+    "stop_sequence": 16,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "669",
+    "stop_sequence": 17,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "514",
+    "stop_sequence": 18,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "601",
+    "stop_sequence": 19,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "991",
+    "stop_sequence": 20,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "670",
+    "stop_sequence": 21,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "766",
+    "stop_sequence": 22,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 23,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "82",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "753",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "754",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "755",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "756",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "997",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "998",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "759",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "760",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "stop_id": "110",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "110",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "762",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "763",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "999",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "68",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "111",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "114",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "115",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "765",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "stop_id": "82",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "82",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "705",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "976",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "977",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "710",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "711",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "722",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "712",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "713",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "978",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "979",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "stop_id": "980",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "980",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "981",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "712",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "713",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "723",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "777",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "982",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "983",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "984",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "138",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "stop_id": "82",
+    "stop_sequence": 11,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "601",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "140",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "95",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "141",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "702",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "703",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "750",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "751",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "752",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "stop_id": "82",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "82",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "750",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "751",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "752",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "715",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "716",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "717",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "766",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "550",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "602",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "192",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "196",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "145",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "149",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "653",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "654",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "655",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "656",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "657",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "658",
+    "stop_sequence": 13,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "660",
+    "stop_sequence": 14,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "608",
+    "stop_sequence": 15,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "stop_id": "609",
+    "stop_sequence": 16,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "609",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "626",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "659",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "661",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "662",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "663",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "664",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "665",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "666",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "151",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "667",
+    "stop_sequence": 11,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "668",
+    "stop_sequence": 12,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "623",
+    "stop_sequence": 13,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "200",
+    "stop_sequence": 14,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "625",
+    "stop_sequence": 15,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "514",
+    "stop_sequence": 16,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "601",
+    "stop_sequence": 17,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "140",
+    "stop_sequence": 18,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 19,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "988",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "440",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "550",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "605",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "606",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "607",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "149",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "153",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "658",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "660",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "608",
+    "stop_sequence": 13,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "609",
+    "stop_sequence": 14,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "166",
+    "stop_sequence": 15,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "610",
+    "stop_sequence": 16,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "168",
+    "stop_sequence": 17,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "174",
+    "stop_sequence": 18,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "614",
+    "stop_sequence": 19,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "615",
+    "stop_sequence": 20,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "616",
+    "stop_sequence": 21,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "stop_id": "617",
+    "stop_sequence": 22,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "617",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "177",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "1032",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "175",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "172",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "178",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "167",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "179",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "659",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "661",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "163",
+    "stop_sequence": 11,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "151",
+    "stop_sequence": 12,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "620",
+    "stop_sequence": 13,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "621",
+    "stop_sequence": 14,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "622",
+    "stop_sequence": 15,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "623",
+    "stop_sequence": 16,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "514",
+    "stop_sequence": 17,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "601",
+    "stop_sequence": 18,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "140",
+    "stop_sequence": 19,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 20,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "988",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "573",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "990",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "180",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "995",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "181",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "1038",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "565",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "558",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "186",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "188",
+    "stop_sequence": 13,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "416",
+    "stop_sequence": 14,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "stop_id": "417",
+    "stop_sequence": 15,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "417",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "424",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "426",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "427",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "507",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "562",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "563",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "564",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "565",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "183",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "182",
+    "stop_sequence": 11,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "556",
+    "stop_sequence": 12,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "567",
+    "stop_sequence": 13,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "451",
+    "stop_sequence": 14,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "267",
+    "stop_sequence": 15,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "513",
+    "stop_sequence": 16,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "514",
+    "stop_sequence": 17,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "601",
+    "stop_sequence": 18,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "140",
+    "stop_sequence": 19,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 20,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "988",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "109",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "501",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "502",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "503",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "504",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "505",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "506",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "415",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "416",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "417",
+    "stop_sequence": 13,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "418",
+    "stop_sequence": 14,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "419",
+    "stop_sequence": 15,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "420",
+    "stop_sequence": 16,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "stop_id": "421",
+    "stop_sequence": 17,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "421",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "422",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "423",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "424",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "425",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "426",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "427",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "507",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "508",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "509",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "510",
+    "stop_sequence": 11,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "511",
+    "stop_sequence": 12,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "512",
+    "stop_sequence": 13,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "513",
+    "stop_sequence": 14,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "514",
+    "stop_sequence": 15,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "601",
+    "stop_sequence": 16,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "140",
+    "stop_sequence": 17,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 18,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "985",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "401",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "402",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "403",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "404",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "405",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "406",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "407",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "408",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "409",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "410",
+    "stop_sequence": 13,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "411",
+    "stop_sequence": 14,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "412",
+    "stop_sequence": 15,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "413",
+    "stop_sequence": 16,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "414",
+    "stop_sequence": 17,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "415",
+    "stop_sequence": 18,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "416",
+    "stop_sequence": 19,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "417",
+    "stop_sequence": 20,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "418",
+    "stop_sequence": 21,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "419",
+    "stop_sequence": 22,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "420",
+    "stop_sequence": 23,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "stop_id": "421",
+    "stop_sequence": 24,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "421",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "422",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "423",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "424",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "425",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "426",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "427",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "428",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "429",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "411",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "412",
+    "stop_sequence": 11,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "443",
+    "stop_sequence": 12,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "430",
+    "stop_sequence": 13,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "431",
+    "stop_sequence": 14,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "432",
+    "stop_sequence": 15,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "433",
+    "stop_sequence": 16,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "434",
+    "stop_sequence": 17,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "435",
+    "stop_sequence": 18,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "436",
+    "stop_sequence": 19,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "437",
+    "stop_sequence": 20,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "438",
+    "stop_sequence": 21,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "439",
+    "stop_sequence": 22,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "988",
+    "stop_sequence": 23,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "440",
+    "stop_sequence": 24,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "601",
+    "stop_sequence": 25,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "140",
+    "stop_sequence": 26,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 27,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "985",
+    "stop_sequence": 3,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "401",
+    "stop_sequence": 4,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "402",
+    "stop_sequence": 5,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "403",
+    "stop_sequence": 6,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "404",
+    "stop_sequence": 7,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "405",
+    "stop_sequence": 8,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "406",
+    "stop_sequence": 9,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "407",
+    "stop_sequence": 10,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "408",
+    "stop_sequence": 11,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "409",
+    "stop_sequence": 12,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "410",
+    "stop_sequence": 13,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "413",
+    "stop_sequence": 14,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "414",
+    "stop_sequence": 15,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "415",
+    "stop_sequence": 16,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "416",
+    "stop_sequence": 17,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "420",
+    "stop_sequence": 18,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "stop_id": "421",
+    "stop_sequence": 19,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "421",
+    "stop_sequence": 1,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "422",
+    "stop_sequence": 2,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "423",
+    "stop_sequence": 3,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "424",
+    "stop_sequence": 4,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "425",
+    "stop_sequence": 5,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "426",
+    "stop_sequence": 6,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "201",
+    "stop_sequence": 7,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "374",
+    "stop_sequence": 8,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "183",
+    "stop_sequence": 9,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "182",
+    "stop_sequence": 10,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "996",
+    "stop_sequence": 11,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "513",
+    "stop_sequence": 12,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "514",
+    "stop_sequence": 13,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "601",
+    "stop_sequence": 14,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "140",
+    "stop_sequence": 15,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 16,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "988",
+    "stop_sequence": 3,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "573",
+    "stop_sequence": 4,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "990",
+    "stop_sequence": 5,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "211",
+    "stop_sequence": 6,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "669",
+    "stop_sequence": 7,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "608",
+    "stop_sequence": 8,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "1034",
+    "stop_sequence": 9,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "614",
+    "stop_sequence": 10,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "615",
+    "stop_sequence": 11,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "616",
+    "stop_sequence": 12,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "stop_id": "617",
+    "stop_sequence": 13,
+    "trayecto_id": "1",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "617",
+    "stop_sequence": 1,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "659",
+    "stop_sequence": 2,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "662",
+    "stop_sequence": 3,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "664",
+    "stop_sequence": 4,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "665",
+    "stop_sequence": 5,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "666",
+    "stop_sequence": 6,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "623",
+    "stop_sequence": 7,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "514",
+    "stop_sequence": 8,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "601",
+    "stop_sequence": 9,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "140",
+    "stop_sequence": 10,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 11,
+    "trayecto_id": "2",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "453",
+    "stop_sequence": 1,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "400",
+    "stop_sequence": 2,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "988",
+    "stop_sequence": 3,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "573",
+    "stop_sequence": 4,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "990",
+    "stop_sequence": 5,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "211",
+    "stop_sequence": 6,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "669",
+    "stop_sequence": 7,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "991",
+    "stop_sequence": 8,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "670",
+    "stop_sequence": 9,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "701",
+    "stop_sequence": 10,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "702",
+    "stop_sequence": 11,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "703",
+    "stop_sequence": 12,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "724",
+    "stop_sequence": 13,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "stop_id": "723",
+    "stop_sequence": 14,
+    "trayecto_id": "3",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "723",
+    "stop_sequence": 1,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "96",
+    "stop_sequence": 2,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "753",
+    "stop_sequence": 3,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "99",
+    "stop_sequence": 4,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "998",
+    "stop_sequence": 5,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "759",
+    "stop_sequence": 6,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "58",
+    "stop_sequence": 7,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "715",
+    "stop_sequence": 8,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "716",
+    "stop_sequence": 9,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "717",
+    "stop_sequence": 10,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "766",
+    "stop_sequence": 11,
+    "trayecto_id": "4",
+    "source": "official_api"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "stop_id": "453",
+    "stop_sequence": 12,
+    "trayecto_id": "4",
+    "source": "official_api"
+  }
+]

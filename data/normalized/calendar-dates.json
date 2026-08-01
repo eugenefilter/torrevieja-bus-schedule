@@ -1,0 +1,17 @@
+[
+  {
+    "service_id": "official-20260729",
+    "date": "2026-07-29",
+    "exception_type": 1
+  },
+  {
+    "service_id": "official-20260801",
+    "date": "2026-08-01",
+    "exception_type": 1
+  },
+  {
+    "service_id": "official-20260802",
+    "date": "2026-08-02",
+    "exception_type": 1
+  }
+]

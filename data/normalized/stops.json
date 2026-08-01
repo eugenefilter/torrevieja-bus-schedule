@@ -1,0 +1,1982 @@
+[
+  {
+    "id": "58",
+    "code": "58",
+    "name": "N-332, s/n (Hotel Torrejoven)_TRV",
+    "lat": 37.9491,
+    "lon": -0.7136,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "68",
+    "code": "68",
+    "name": "Av. Espuña, ft 89 (C.C. Los Altos) _TRV",
+    "lat": 37.9543,
+    "lon": -0.721,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "82",
+    "code": "82",
+    "name": "Hospital de Torrevieja, s/n _TRV",
+    "lat": 37.9643,
+    "lon": -0.7173,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "95",
+    "code": "95",
+    "name": "Av. Dr. Gregorio Marañón, 30 _TRV",
+    "lat": 37.977,
+    "lon": -0.6901,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "96",
+    "code": "96",
+    "name": "Ctra. CV-95, s/n (Farmacia) _TRV",
+    "lat": 37.9631,
+    "lon": -0.7219,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "99",
+    "code": "99",
+    "name": "Av. Tomas Boj Andreu, 8 _TRV",
+    "lat": 37.9546,
+    "lon": -0.717,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "109",
+    "code": "109",
+    "name": "C/ Calera, 27 _TRV",
+    "lat": 37.9835,
+    "lon": -0.6764,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "110",
+    "code": "110",
+    "name": "C/ Mar Rizada, s/n _TRV",
+    "lat": 37.947,
+    "lon": -0.7092,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "111",
+    "code": "111",
+    "name": "C/ La Sagra, 1B _TRV",
+    "lat": 37.9548,
+    "lon": -0.7247,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "114",
+    "code": "114",
+    "name": "C/ La Sagra, ft 164 _TRV",
+    "lat": 37.9566,
+    "lon": -0.7231,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "115",
+    "code": "115",
+    "name": "C/ La Sagra, 42 _TRV",
+    "lat": 37.9565,
+    "lon": -0.7191,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "138",
+    "code": "138",
+    "name": "Av. de la Asunción, 5 _TRV",
+    "lat": 37.9616,
+    "lon": -0.7241,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "140",
+    "code": "140",
+    "name": "C/ Villa Madrid, 13_TRV",
+    "lat": 37.9785,
+    "lon": -0.6894,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "141",
+    "code": "141",
+    "name": "Av. Dr. Gregorio Marañón, 76 _TRV",
+    "lat": 37.9723,
+    "lon": -0.6945,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "145",
+    "code": "145",
+    "name": "Av. los Nenúfares, 821 (ITV) _TRV",
+    "lat": 37.996,
+    "lon": -0.6912,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "149",
+    "code": "149",
+    "name": "C/ de las Gardenias, s/n _TRV",
+    "lat": 37.9977,
+    "lon": -0.6952,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "151",
+    "code": "151",
+    "name": "C/ de las Gardenias, s/n _TRV",
+    "lat": 37.9976,
+    "lon": -0.6952,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "153",
+    "code": "153",
+    "name": "C/ Efrén Gutierrez Mateo, s/n (ft Parque) _TRV",
+    "lat": 38.0025,
+    "lon": -0.6953,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "163",
+    "code": "163",
+    "name": "C/ Efrén Gutierrez Mateo, s/n (Parque) _TRV",
+    "lat": 38.0025,
+    "lon": -0.6954,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "166",
+    "code": "166",
+    "name": "C/ Henri Matisse, 36 _TRV",
+    "lat": 38.0114,
+    "lon": -0.6882,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "167",
+    "code": "167",
+    "name": "C/ Henri Matisse, 328A _TRV",
+    "lat": 38.0114,
+    "lon": -0.6882,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "168",
+    "code": "168",
+    "name": "C/ Elgar, ft 21 _TRV",
+    "lat": 38.0139,
+    "lon": -0.6838,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "172",
+    "code": "172",
+    "name": "C/ Elgar, 21 _TRV",
+    "lat": 38.0138,
+    "lon": -0.6838,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "174",
+    "code": "174",
+    "name": "C/ Liszt, 4",
+    "lat": 38.0173,
+    "lon": -0.6867,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "175",
+    "code": "175",
+    "name": "C/ Purcell, 55 _TRV",
+    "lat": 38.0174,
+    "lon": -0.6869,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "177",
+    "code": "177",
+    "name": "Av. Abando, 1 _TRV",
+    "lat": 38.0185,
+    "lon": -0.6975,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "178",
+    "code": "178",
+    "name": "C/ Rembrandt, 2 _TRV",
+    "lat": 38.0107,
+    "lon": -0.6827,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "179",
+    "code": "179",
+    "name": "C/ Rossini, 26 (C.S. La Siesta) _TRV",
+    "lat": 38.0127,
+    "lon": -0.6919,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "180",
+    "code": "180",
+    "name": "Av. Cortes Valencianas, s/n (v. serv.) _TRV",
+    "lat": 37.9949,
+    "lon": -0.6731,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "181",
+    "code": "181",
+    "name": "Av. Asociación Victimas del Terrorismo, 42 _TRV",
+    "lat": 37.9996,
+    "lon": -0.6773,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "182",
+    "code": "182",
+    "name": "Av. Asociación Victimas del Terrorismo, 1 _TRV",
+    "lat": 37.9996,
+    "lon": -0.6774,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "183",
+    "code": "183",
+    "name": "Av. Asociación Victimas del Terrorismo, 40 _TRV",
+    "lat": 38.0024,
+    "lon": -0.6739,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "186",
+    "code": "186",
+    "name": "Av. Torreblanca, 6B _TRV",
+    "lat": 38.0082,
+    "lon": -0.6624,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "188",
+    "code": "188",
+    "name": "Av. Torreblanca, 3 _TRV",
+    "lat": 38.0095,
+    "lon": -0.6589,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "192",
+    "code": "192",
+    "name": "C/ de los Geranios s/n (C.C.) _TRV",
+    "lat": 37.9874,
+    "lon": -0.6919,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "196",
+    "code": "196",
+    "name": "Ctra. CV-905, s/n (ft Policía Local) _TRV",
+    "lat": 37.9911,
+    "lon": -0.6884,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "200",
+    "code": "200",
+    "name": "C/ de los Geranios s/n (ft C.C.) _TRV",
+    "lat": 37.9875,
+    "lon": -0.6919,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "201",
+    "code": "201",
+    "name": "Av. Torreblanca, ft 6B _TRV",
+    "lat": 38.0081,
+    "lon": -0.6625,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "211",
+    "code": "211",
+    "name": "Av. Rosa Mazón Valero, s/n (ft. G.M.) _TRV",
+    "lat": 37.9916,
+    "lon": -0.6789,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "267",
+    "code": "267",
+    "name": "Av. Cortes Valencianas, 3 _TRV",
+    "lat": 37.9862,
+    "lon": -0.6785,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "374",
+    "code": "374",
+    "name": "Av. Cortes Valencianas, s/n (depósito) _TRV",
+    "lat": 38.0054,
+    "lon": -0.6673,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "400",
+    "code": "400",
+    "name": "C/ Ramón Gallud, 74 (H.Fontana) _TRV",
+    "lat": 37.9773,
+    "lon": -0.6798,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "401",
+    "code": "401",
+    "name": "C/ Fuensanta, 3 _TRV",
+    "lat": 37.977,
+    "lon": -0.6714,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "402",
+    "code": "402",
+    "name": "Av. de la Purísima, 10 _TRV",
+    "lat": 37.9777,
+    "lon": -0.6694,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "403",
+    "code": "403",
+    "name": "Av. de la Purísima, 20 _TRV",
+    "lat": 37.978,
+    "lon": -0.6658,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "404",
+    "code": "404",
+    "name": "Av. Dr. Mariano Ruiz Cánovas, ft 18 _TRV",
+    "lat": 37.9824,
+    "lon": -0.6618,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "405",
+    "code": "405",
+    "name": "Av. Dr. Mariano Ruiz Cánovas, ft 372 _TRV",
+    "lat": 37.9845,
+    "lon": -0.6586,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "406",
+    "code": "406",
+    "name": "Av. Alfredo Nobel, ft 17 _TRV",
+    "lat": 37.9868,
+    "lon": -0.6569,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "407",
+    "code": "407",
+    "name": "Av. Alfredo Nobel, ft 123A _TRV",
+    "lat": 37.9905,
+    "lon": -0.6561,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "408",
+    "code": "408",
+    "name": "Av. Alfredo Nobel, ft 143 _TRV",
+    "lat": 37.9934,
+    "lon": -0.6559,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "409",
+    "code": "409",
+    "name": "Av. Alfredo Nobel, ft 199 _TRV",
+    "lat": 37.9961,
+    "lon": -0.6555,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "410",
+    "code": "410",
+    "name": "Av. Alfredo Nobel, 150 _TRV",
+    "lat": 37.999,
+    "lon": -0.6526,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "411",
+    "code": "411",
+    "name": "Av. Juan Martinez Román, s/n _TRV",
+    "lat": 38.0021,
+    "lon": -0.6504,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "412",
+    "code": "412",
+    "name": "C/ Bogavante, s/n _TRV",
+    "lat": 38.0051,
+    "lon": -0.65,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "413",
+    "code": "413",
+    "name": "Ctra. del Torrejón, ft 1 _TRV",
+    "lat": 38.0023,
+    "lon": -0.653,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "414",
+    "code": "414",
+    "name": "Ctra. del Torrejón, 448_TRV",
+    "lat": 38.0043,
+    "lon": -0.6557,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "415",
+    "code": "415",
+    "name": "Ronda José Samper García, s/n _TRV",
+    "lat": 38.0093,
+    "lon": -0.657,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "416",
+    "code": "416",
+    "name": "Rda. José Samper García, 2280 _TRV",
+    "lat": 38.0125,
+    "lon": -0.66,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "417",
+    "code": "417",
+    "name": "Av. Holanda, 51 (C.S. La Mata) _TRV",
+    "lat": 38.0183,
+    "lon": -0.6587,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "418",
+    "code": "418",
+    "name": "Av. Alemania, 42 _TRV",
+    "lat": 38.0207,
+    "lon": -0.6542,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "419",
+    "code": "419",
+    "name": "Av. Virgen del Carmen, 24 _TRV",
+    "lat": 38.0249,
+    "lon": -0.655,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "420",
+    "code": "420",
+    "name": "C/ del Mar, 25 _TRV",
+    "lat": 38.0279,
+    "lon": -0.6553,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "421",
+    "code": "421",
+    "name": "C/ Mayor, 59 _TRV",
+    "lat": 38.027,
+    "lon": -0.6541,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "422",
+    "code": "422",
+    "name": "Av. de los Daneses, ft 9 _TRV",
+    "lat": 38.0236,
+    "lon": -0.6547,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "423",
+    "code": "423",
+    "name": "Av. de los Europeos, 8 _TRV",
+    "lat": 38.0205,
+    "lon": -0.6552,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "424",
+    "code": "424",
+    "name": "Av. Bélgica, 7 (C.S. La Mata) _TRV",
+    "lat": 38.0181,
+    "lon": -0.6573,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "425",
+    "code": "425",
+    "name": "Av. Francia, s/n (Parque) _TRV",
+    "lat": 38.0167,
+    "lon": -0.6559,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "426",
+    "code": "426",
+    "name": "Rda. José Samper García, ft 2280 _TRV",
+    "lat": 38.0124,
+    "lon": -0.6601,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "427",
+    "code": "427",
+    "name": "Rda. Jose Samper, esq. Av. Agua _TRV",
+    "lat": 38.0091,
+    "lon": -0.6572,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "428",
+    "code": "428",
+    "name": "Ctra. del Torrejón, ft 448 _TRV",
+    "lat": 38.0044,
+    "lon": -0.656,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "429",
+    "code": "429",
+    "name": "Ctra. del Torrejón, 1 _TRV",
+    "lat": 38.0022,
+    "lon": -0.6531,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "430",
+    "code": "430",
+    "name": "Av. Alfredo Nobel, 199 _TRV",
+    "lat": 37.9962,
+    "lon": -0.6555,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "431",
+    "code": "431",
+    "name": "Av. Alfredo Nobel, 143 _TRV",
+    "lat": 37.9933,
+    "lon": -0.656,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "432",
+    "code": "432",
+    "name": "Av. Alfredo Nobel, 123A _TRV",
+    "lat": 37.9907,
+    "lon": -0.6563,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "433",
+    "code": "433",
+    "name": "Av. Alfredo Nobel, 17 _TRV",
+    "lat": 37.9872,
+    "lon": -0.6569,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "434",
+    "code": "434",
+    "name": "Av. Dr. Mariano Ruiz Cánovas, 372 _TRV",
+    "lat": 37.9846,
+    "lon": -0.6586,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "435",
+    "code": "435",
+    "name": "Av. Dr. Mariano Ruiz Cánovas, 24 _TRV",
+    "lat": 37.9829,
+    "lon": -0.6614,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "436",
+    "code": "436",
+    "name": "Av. Dr. Mariano Ruiz Cánovas, 5 _TRV",
+    "lat": 37.9808,
+    "lon": -0.6636,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "437",
+    "code": "437",
+    "name": "Av. Habaneras, 95 _TRV",
+    "lat": 37.9806,
+    "lon": -0.6667,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "438",
+    "code": "438",
+    "name": "Av. Habaneras, s/n (esq. María Gil) _TRV",
+    "lat": 37.9802,
+    "lon": -0.6724,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "439",
+    "code": "439",
+    "name": "C/ Antonio Machado, 137 (Est. Autobuses) _TRV",
+    "lat": 37.9797,
+    "lon": -0.6758,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "440",
+    "code": "440",
+    "name": "Av. Diego Ramírez Pastor, 125 _TRV",
+    "lat": 37.9807,
+    "lon": -0.6837,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "443",
+    "code": "443",
+    "name": "Av. Alfredo Nobel, ft 150 _TRV",
+    "lat": 37.9989,
+    "lon": -0.6528,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "451",
+    "code": "451",
+    "name": "Av. Cortes Valencianas, 39 _TRV",
+    "lat": 37.9907,
+    "lon": -0.6759,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "453",
+    "code": "453",
+    "name": "Av. Gregorio Marañón, 7 _TRV",
+    "lat": 37.9768,
+    "lon": -0.6867,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "501",
+    "code": "501",
+    "name": "C/ La Calera, 22 (C.S. Lomas) _TRV",
+    "lat": 37.9838,
+    "lon": -0.6729,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "502",
+    "code": "502",
+    "name": "Av. París, s/n (esq. Bruselas) _TRV",
+    "lat": 37.9841,
+    "lon": -0.6672,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "503",
+    "code": "503",
+    "name": "C/ París, s/n (Pza. Sevilla) _TRV",
+    "lat": 37.9888,
+    "lon": -0.6636,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "504",
+    "code": "504",
+    "name": "Av. Paris, ft 207 _TRV",
+    "lat": 37.9942,
+    "lon": -0.6625,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "505",
+    "code": "505",
+    "name": "Av. José Zorrilla, s/n (Parque) _TRV",
+    "lat": 37.9989,
+    "lon": -0.661,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "506",
+    "code": "506",
+    "name": "Rda. Jose Samper García, 2B _TRV",
+    "lat": 38.0037,
+    "lon": -0.6589,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "507",
+    "code": "507",
+    "name": "Rda. Jose Samper García, 1A _TRV",
+    "lat": 38.0037,
+    "lon": -0.6591,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "508",
+    "code": "508",
+    "name": "Av. José Zorrilla s/n (ft Parque) _TRV",
+    "lat": 37.9989,
+    "lon": -0.6611,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "509",
+    "code": "509",
+    "name": "Av. París, 207 _TRV",
+    "lat": 37.9942,
+    "lon": -0.6627,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "510",
+    "code": "510",
+    "name": "C/ París, 123 _TRV",
+    "lat": 37.9889,
+    "lon": -0.6638,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "511",
+    "code": "511",
+    "name": "C/ París, 55 _TRV",
+    "lat": 37.9842,
+    "lon": -0.6673,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "512",
+    "code": "512",
+    "name": "C/ Salinero, s/n (C.S. Lomas) _TRV",
+    "lat": 37.9842,
+    "lon": -0.6738,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "513",
+    "code": "513",
+    "name": "Rda. Ricardo Lafuente, 17 _TRV",
+    "lat": 37.9844,
+    "lon": -0.6832,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "514",
+    "code": "514",
+    "name": "C/ Orihuela, 71 _TRV",
+    "lat": 37.9826,
+    "lon": -0.6865,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "550",
+    "code": "550",
+    "name": "C/ Orihuela, 86 _TRV",
+    "lat": 37.9827,
+    "lon": -0.6863,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "555",
+    "code": "555",
+    "name": "Av. de la Mancha, s/n (esq. Alonso Quijano) _TRV",
+    "lat": 37.9966,
+    "lon": -0.67,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "556",
+    "code": "556",
+    "name": "Av. Monge y Bielsa, s/n (Zona deportiva) _TRV",
+    "lat": 37.9965,
+    "lon": -0.6753,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "558",
+    "code": "558",
+    "name": "Av. Torreblanca, 37 _TRV",
+    "lat": 38.0059,
+    "lon": -0.6666,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "562",
+    "code": "562",
+    "name": "C/ Perseo, 17 _TRV",
+    "lat": 38.0019,
+    "lon": -0.6628,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "563",
+    "code": "563",
+    "name": "C/ Argonautas, 12_TRV",
+    "lat": 38.0033,
+    "lon": -0.6643,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "564",
+    "code": "564",
+    "name": "Av. Torreblanca, 22 _TRV",
+    "lat": 38.006,
+    "lon": -0.6659,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "565",
+    "code": "565",
+    "name": "Hospital Quirón, s/n _TRV",
+    "lat": 38.0063,
+    "lon": -0.6728,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "567",
+    "code": "567",
+    "name": "Av. Cortes Valencianas, s/n (ADIEM) _TRV",
+    "lat": 37.9959,
+    "lon": -0.6729,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "573",
+    "code": "573",
+    "name": "Av. Cortes Valencianas, 12 _TRV",
+    "lat": 37.9861,
+    "lon": -0.6783,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "601",
+    "code": "601",
+    "name": "Av. Diego Ramírez Pastor, 39_TRV",
+    "lat": 37.98,
+    "lon": -0.6875,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "602",
+    "code": "602",
+    "name": "C/ Villa Madrid, s/n (bajo N-332) _TRV",
+    "lat": 37.9825,
+    "lon": -0.6901,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "605",
+    "code": "605",
+    "name": "C/ Francisco Atienza, 8 (Carrefour) _TRV",
+    "lat": 37.9921,
+    "lon": -0.6852,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "606",
+    "code": "606",
+    "name": "C/ Francisco Diaz Martínez, 123 _TRV",
+    "lat": 37.9946,
+    "lon": -0.6864,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "607",
+    "code": "607",
+    "name": "Av. Ópera, 1 _TRV",
+    "lat": 37.9983,
+    "lon": -0.6892,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "608",
+    "code": "608",
+    "name": "C/ Bizet, 8 _TRV",
+    "lat": 38.0106,
+    "lon": -0.6947,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "609",
+    "code": "609",
+    "name": "C/ Rossini, ft 26 (C.S. La Siesta) _TRV",
+    "lat": 38.0128,
+    "lon": -0.6921,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "610",
+    "code": "610",
+    "name": "C/ Rembrandt, 100 _TRV",
+    "lat": 38.0106,
+    "lon": -0.6827,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "614",
+    "code": "614",
+    "name": "C/ Purcell, ft 1047 _TRV",
+    "lat": 38.0202,
+    "lon": -0.6918,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "615",
+    "code": "615",
+    "name": "Av. Robleda, 9 _TRV",
+    "lat": 38.0224,
+    "lon": -0.6957,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "616",
+    "code": "616",
+    "name": "Av. Baracaldo, ft 76 _TRV",
+    "lat": 38.0232,
+    "lon": -0.6987,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "617",
+    "code": "617",
+    "name": "Pza. Tolosa, s/n _TRV",
+    "lat": 38.0215,
+    "lon": -0.7028,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "620",
+    "code": "620",
+    "name": "Av. Ópera, ft 1 _TRV",
+    "lat": 37.9982,
+    "lon": -0.6893,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "621",
+    "code": "621",
+    "name": "C/ Francisco Díez Martínez, 160 _TRV",
+    "lat": 37.9945,
+    "lon": -0.6864,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "622",
+    "code": "622",
+    "name": "C/ Francisco Atienza Ferrandez, s/n (Carref.) _TRV",
+    "lat": 37.9921,
+    "lon": -0.6855,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "623",
+    "code": "623",
+    "name": "Ctra. CV-905, s/n (Policia Local) _TRV",
+    "lat": 37.9915,
+    "lon": -0.6889,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "625",
+    "code": "625",
+    "name": "C/ Villa Madrid, s/n (Bajo N-332) _TRV",
+    "lat": 37.9827,
+    "lon": -0.6902,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "626",
+    "code": "626",
+    "name": "C/ Guridi, ft 12 _TRV",
+    "lat": 38.0103,
+    "lon": -0.6941,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "653",
+    "code": "653",
+    "name": "Av. de las Urracas, ft 85 _TRV",
+    "lat": 37.9968,
+    "lon": -0.698,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "654",
+    "code": "654",
+    "name": "C/ Urano, 610 _TRV",
+    "lat": 37.9987,
+    "lon": -0.7007,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "655",
+    "code": "655",
+    "name": "C/ Cerezo, 5C _TRV",
+    "lat": 38.0009,
+    "lon": -0.7028,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "656",
+    "code": "656",
+    "name": "C/ Manuel Rodríguez Manolete, 66 _TRV",
+    "lat": 38.0014,
+    "lon": -0.6991,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "657",
+    "code": "657",
+    "name": "C/ Paloma, ft 2 _TRV",
+    "lat": 38.005,
+    "lon": -0.6964,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "658",
+    "code": "658",
+    "name": "C/ Vicente Solano Ruiz, 33 _TRV",
+    "lat": 38.0066,
+    "lon": -0.6943,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "659",
+    "code": "659",
+    "name": "C/ Antonio Conesa Morales, 22 _TRV",
+    "lat": 38.0086,
+    "lon": -0.6948,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "660",
+    "code": "660",
+    "name": "C/ Antonio Conesa Morales, ft 10 _TRV",
+    "lat": 38.0089,
+    "lon": -0.6948,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "661",
+    "code": "661",
+    "name": "C/ Vicente Solano Ruiz, 3 _TRV",
+    "lat": 38.0067,
+    "lon": -0.6944,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "662",
+    "code": "662",
+    "name": "C/ Paco Camino s/n_TRV",
+    "lat": 38.0053,
+    "lon": -0.6966,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "663",
+    "code": "663",
+    "name": "C/ Manuel Rodríguez Manolete, 619_TRV",
+    "lat": 38.0014,
+    "lon": -0.6991,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "664",
+    "code": "664",
+    "name": "C/ Cerezo, ft 5C_TRV",
+    "lat": 38.0009,
+    "lon": -0.7029,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "665",
+    "code": "665",
+    "name": "C/ Urano, ft 610_TRV",
+    "lat": 37.9986,
+    "lon": -0.701,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "666",
+    "code": "666",
+    "name": "Av. de las Urracas, 85 _TRV",
+    "lat": 37.9967,
+    "lon": -0.6979,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "667",
+    "code": "667",
+    "name": "Av. los Nenúfares, 932 _TRV",
+    "lat": 37.9966,
+    "lon": -0.6913,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "668",
+    "code": "668",
+    "name": "Av. los Nenúfares, s/n _TRV",
+    "lat": 37.9941,
+    "lon": -0.691,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "669",
+    "code": "669",
+    "name": "Av. Rosa Mazón Valero, s/n (C.C. Habaneras) _TRV",
+    "lat": 37.9898,
+    "lon": -0.6857,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "670",
+    "code": "670",
+    "name": "C/ Urbano Arregui, 6 (C.Salud) _TRV",
+    "lat": 37.9775,
+    "lon": -0.693,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "701",
+    "code": "701",
+    "name": "Av. Pinoso, s/n  (cinta sal) _TRV",
+    "lat": 37.9722,
+    "lon": -0.6954,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "702",
+    "code": "702",
+    "name": "Av. Desiderio Rodríguez, 120 _TRV",
+    "lat": 37.9671,
+    "lon": -0.6995,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "703",
+    "code": "703",
+    "name": "Av. Desiderio Rodríguez, s/n (C.C.) _TRV",
+    "lat": 37.9625,
+    "lon": -0.7038,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "705",
+    "code": "705",
+    "name": "Av. de la Asunción, 10 _TRV",
+    "lat": 37.9624,
+    "lon": -0.7238,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "710",
+    "code": "710",
+    "name": "Av. Angel García Rogel, ft 36 _TRV",
+    "lat": 37.9607,
+    "lon": -0.7329,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "711",
+    "code": "711",
+    "name": "Av. Angel García Rogel, 1 _TRV",
+    "lat": 37.9646,
+    "lon": -0.7316,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "712",
+    "code": "712",
+    "name": "Av. Laguna Azul, 1 _TRV",
+    "lat": 37.9623,
+    "lon": -0.7384,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "713",
+    "code": "713",
+    "name": "Av. Laguna Azul, ft 135 _TRV",
+    "lat": 37.9642,
+    "lon": -0.7359,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "715",
+    "code": "715",
+    "name": "Av. Desiderio Rodríguez, s/n (ft. C.C.) _TRV",
+    "lat": 37.9629,
+    "lon": -0.7032,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "716",
+    "code": "716",
+    "name": "Av. Desiderio Rodríguez, 31 _TRV",
+    "lat": 37.9671,
+    "lon": -0.6994,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "717",
+    "code": "717",
+    "name": "Av. Dr. Gregorio Marañón, ft 80 _TRV",
+    "lat": 37.9719,
+    "lon": -0.6947,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "722",
+    "code": "722",
+    "name": "CV-95, s/n (ft. Hotel Dña Monse) _TRV",
+    "lat": 37.9654,
+    "lon": -0.7324,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "723",
+    "code": "723",
+    "name": "CV- 95, s/n (Hotel Dña Monse) _TRV",
+    "lat": 37.9656,
+    "lon": -0.7333,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "724",
+    "code": "724",
+    "name": "CV-95, (ft C/ Ucrania, 30) _TRV",
+    "lat": 37.9636,
+    "lon": -0.724,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "750",
+    "code": "750",
+    "name": "Pº de los Conquistadores, s/n _TRV",
+    "lat": 37.9573,
+    "lon": -0.7038,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "751",
+    "code": "751",
+    "name": "Av. Don Juan de Austria, 4 _TRV",
+    "lat": 37.9574,
+    "lon": -0.7058,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "752",
+    "code": "752",
+    "name": "C/ Churruca, 5 _TRV",
+    "lat": 37.9591,
+    "lon": -0.706,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "753",
+    "code": "753",
+    "name": "Av. Tomás Boj Andreu, 39 _TRV",
+    "lat": 37.9587,
+    "lon": -0.7177,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "754",
+    "code": "754",
+    "name": "C/ La Sagra, 55 _TRV",
+    "lat": 37.9567,
+    "lon": -0.7192,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "755",
+    "code": "755",
+    "name": "C/ La Sagra, 164 _TRV",
+    "lat": 37.9567,
+    "lon": -0.7232,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "756",
+    "code": "756",
+    "name": "C/ La Sagra, 44 _TRV",
+    "lat": 37.9547,
+    "lon": -0.7248,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "759",
+    "code": "759",
+    "name": "C/ Escorpiones, 1 _TRV",
+    "lat": 37.9486,
+    "lon": -0.716,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "760",
+    "code": "760",
+    "name": "Av. Las Olas, 22 _TRV",
+    "lat": 37.9478,
+    "lon": -0.7126,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "762",
+    "code": "762",
+    "name": "Av. Las Olas, 5 _TRV",
+    "lat": 37.9479,
+    "lon": -0.7123,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "763",
+    "code": "763",
+    "name": "C/ Escorpiones, s/n (C.C) _TRV",
+    "lat": 37.9488,
+    "lon": -0.716,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "765",
+    "code": "765",
+    "name": "Av. Tomás Boj Andreu, ft 39 _TRV",
+    "lat": 37.9588,
+    "lon": -0.7176,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "766",
+    "code": "766",
+    "name": "Av. Dr. Gregorio Marañón, 29 _TRV",
+    "lat": 37.9765,
+    "lon": -0.6905,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "777",
+    "code": "777",
+    "name": "Av. Angel García Rogel, 4_TRV",
+    "lat": 37.9647,
+    "lon": -0.7316,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "976",
+    "code": "976",
+    "name": "Av. de la Asunción, 40 _TRV",
+    "lat": 37.959,
+    "lon": -0.7254,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "977",
+    "code": "977",
+    "name": "C/ Carla Vaquera, s/n (ft. Plz. Tomás) _TRV",
+    "lat": 37.9599,
+    "lon": -0.7285,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "978",
+    "code": "978",
+    "name": "C/ Calpe, s/n _TRV",
+    "lat": 37.9654,
+    "lon": -0.7361,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "979",
+    "code": "979",
+    "name": "C/ Teulada, 37 _TRV",
+    "lat": 37.9652,
+    "lon": -0.7388,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "980",
+    "code": "980",
+    "name": "Av. de Denia, s/n (ft. C.C.) _TRV",
+    "lat": 37.9675,
+    "lon": -0.7419,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "981",
+    "code": "981",
+    "name": "C/ Javea, 11 _TRV",
+    "lat": 37.967,
+    "lon": -0.7381,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "982",
+    "code": "982",
+    "name": "Av. Angel García Rogel, 36 _TRV",
+    "lat": 37.9608,
+    "lon": -0.7329,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "983",
+    "code": "983",
+    "name": "C/ Carla Vaquera, s/n (Plz. Tomás) _TRV",
+    "lat": 37.96,
+    "lon": -0.7288,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "984",
+    "code": "984",
+    "name": "C/ Iradier Bal, 31 _TRV",
+    "lat": 37.9591,
+    "lon": -0.7248,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "985",
+    "code": "985",
+    "name": "C/ Ramón Gallud, 106 _TRV",
+    "lat": 37.9775,
+    "lon": -0.6768,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "987",
+    "code": "987",
+    "name": "C/ Ramón Gallud, 198 _TRV",
+    "lat": 37.9787,
+    "lon": -0.6698,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "988",
+    "code": "988",
+    "name": "C/ Apolo, 66 _TRV",
+    "lat": 37.9811,
+    "lon": -0.679,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "990",
+    "code": "990",
+    "name": "Av. Cortes Valencianas, 48 _TRV",
+    "lat": 37.9896,
+    "lon": -0.6761,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "991",
+    "code": "991",
+    "name": "Av. Diego Ramírez Pastor, 1 (Biblioteca) _TRV",
+    "lat": 37.9793,
+    "lon": -0.6909,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "992",
+    "code": "992",
+    "name": "Av. Baleares, 83 _TRV",
+    "lat": 37.9893,
+    "lon": -0.6641,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "993",
+    "code": "993",
+    "name": "Av. de Córcega, 13 _TRV",
+    "lat": 37.9914,
+    "lon": -0.6678,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "994",
+    "code": "994",
+    "name": "Av. de la Mancha, 40 _TRV",
+    "lat": 37.9966,
+    "lon": -0.6659,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "995",
+    "code": "995",
+    "name": "Av. Monge y Bielsa, s/n (Zona deportiva) _TRV",
+    "lat": 37.9966,
+    "lon": -0.6758,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "996",
+    "code": "996",
+    "name": "Av. Delfina Viudes, 1 _TRV",
+    "lat": 37.9932,
+    "lon": -0.6798,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "997",
+    "code": "997",
+    "name": "Av. Espuña, 89 (C.C. Los Altos) _TRV",
+    "lat": 37.9543,
+    "lon": -0.7213,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "998",
+    "code": "998",
+    "name": "C/ Manzanilla, 92 _TRV",
+    "lat": 37.9517,
+    "lon": -0.7187,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "999",
+    "code": "999",
+    "name": "C/ Manzanilla, ft 92 _TRV",
+    "lat": 37.9517,
+    "lon": -0.7187,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "1032",
+    "code": "1032",
+    "name": "C/ Purcell, 1047_TRV",
+    "lat": 38.0201,
+    "lon": -0.6917,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "1034",
+    "code": "1034",
+    "name": "C/ Granados, 66 _TRV",
+    "lat": 38.0165,
+    "lon": -0.6873,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  },
+  {
+    "id": "1038",
+    "code": "1038",
+    "name": "Av. Asociación Victimas del Terrorismo, 190 _TRV",
+    "lat": 38.0024,
+    "lon": -0.6739,
+    "wheelchair_boarding": null,
+    "source": "avanza",
+    "verified": true
+  }
+]

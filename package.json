@@ -1,0 +1,28 @@
+{
+  "name": "torrevieja",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "discover-api": "node src/transit/cli.js discover-api",
+    "scrape": "node src/transit/cli.js scrape",
+    "normalize": "node src/transit/cli.js normalize",
+    "validate": "node src/transit/cli.js validate",
+    "export:json": "node src/transit/cli.js export:json",
+    "export:geojson": "node src/transit/cli.js export:geojson",
+    "export:gtfs": "node src/transit/cli.js export:gtfs",
+    "update": "node src/transit/cli.js update",
+    "all": "node src/transit/cli.js all"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "vue": "^3.5.39"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^6.0.7",
+    "vite": "^8.1.1"
+  }
+}

@@ -1,0 +1,232 @@
+[
+  {
+    "route_id": "071",
+    "direction_id": 0,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - Av. Gregorio Marañon"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 0,
+    "headsign": "C/ Mar Rizada, s/n _TRV",
+    "origin_stop_id": "82",
+    "destination_stop_id": "110",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Hospital de Torrevieja - Mar Rizada s/n"
+  },
+  {
+    "route_id": "081",
+    "direction_id": 1,
+    "headsign": "Hospital de Torrevieja, s/n _TRV",
+    "origin_stop_id": "110",
+    "destination_stop_id": "82",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "Mar Rizada s/n - Hospital de Torrevieja"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 0,
+    "headsign": "Av. de Denia, s/n (ft. C.C.) _TRV",
+    "origin_stop_id": "82",
+    "destination_stop_id": "980",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Hospital de Torrevieja - Denia s/n"
+  },
+  {
+    "route_id": "082",
+    "direction_id": 1,
+    "headsign": "Hospital de Torrevieja, s/n _TRV",
+    "origin_stop_id": "980",
+    "destination_stop_id": "82",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "Denia s/n - Hospital de Torrevieja"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 0,
+    "headsign": "Hospital de Torrevieja, s/n _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "82",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - Hospital de Torrevie"
+  },
+  {
+    "route_id": "083",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "82",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "Hospital de Torrevieja - Av. Gregorio Marañon"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 0,
+    "headsign": "C/ Rossini, ft 26 (C.S. La Siesta) _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "609",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - Calle Rossini (Centr"
+  },
+  {
+    "route_id": "084",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "609",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "Calle Rossini (Centro Salud) - Av. Gregorio M"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 0,
+    "headsign": "Pza. Tolosa, s/n _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "617",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - Plaza Tolosa"
+  },
+  {
+    "route_id": "085",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "617",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "Plaza Tolosa - Av. Gregorio Marañon 7"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 0,
+    "headsign": "Av. Holanda, 51 (C.S. La Mata) _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "417",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - Centro Salud La Mata"
+  },
+  {
+    "route_id": "086",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "417",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "Centro Salud La Mata - Av. Gregorio Marañon 7"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 0,
+    "headsign": "C/ Mayor, 59 _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "421",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - La Mata Centro (C/ M"
+  },
+  {
+    "route_id": "087",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "421",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "La Mata Centro (C/ Mayor) - Av. Gregorio Mara"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 0,
+    "headsign": "C/ Mayor, 59 _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "421",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - La Mata Centro (C/ M"
+  },
+  {
+    "route_id": "088",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "421",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "La Mata Centro (C/ Mayor) - Av. Gregorio Mara"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 0,
+    "headsign": "C/ Mayor, 59 _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "421",
+    "source": "official_api",
+    "trayecto_id": "3",
+    "trayecto_name": "Av. Dr. Gregorio Marañón, 7 - C/ Mayor, 59"
+  },
+  {
+    "route_id": "091",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "421",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "4",
+    "trayecto_name": "C/ Mayor, 59 - Av. Dr. Gregorio Marañón, 7"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 0,
+    "headsign": "Pza. Tolosa, s/n _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "617",
+    "source": "official_api",
+    "trayecto_id": "1",
+    "trayecto_name": "Av. Gregorio Marañon 7 - Plaza Tolosa"
+  },
+  {
+    "route_id": "092",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "617",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "2",
+    "trayecto_name": "Plaza Tolosa - Av. Gregorio Marañon 7"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 0,
+    "headsign": "CV- 95, s/n (Hotel Dña Monse) _TRV",
+    "origin_stop_id": "453",
+    "destination_stop_id": "723",
+    "source": "official_api",
+    "trayecto_id": "3",
+    "trayecto_name": "Av. Dr. Gregorio Marañón, 7 - CV-95, s/n (Hot"
+  },
+  {
+    "route_id": "093",
+    "direction_id": 1,
+    "headsign": "Av. Gregorio Marañón, 7 _TRV",
+    "origin_stop_id": "723",
+    "destination_stop_id": "453",
+    "source": "official_api",
+    "trayecto_id": "4",
+    "trayecto_name": "CV-95, s/n (Hotel Dña Monse) - Av. Dr. Gregor"
+  }
+]

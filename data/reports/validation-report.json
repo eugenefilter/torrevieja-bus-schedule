@@ -1,0 +1,30 @@
+{
+  "generated_at": "2026-07-29T10:38:41.792Z",
+  "status": "passed_with_warnings",
+  "errors": [],
+  "warnings": [
+    {
+      "route_id": "071",
+      "direction_id": 1,
+      "warning": "Missing Vuelta trayecto in official API response."
+    },
+    {
+      "route_id": "071",
+      "warning": "Official API returned 1 directions; expected 2. Missing direction is not inferred."
+    },
+    {
+      "warning": "Official schedules expose terminal departures only; intermediate stop arrival/departure times are intentionally not inferred."
+    }
+  ],
+  "counts": {
+    "routes": 12,
+    "stops": 198,
+    "directions": 23,
+    "route_stops": 369,
+    "services": 3,
+    "trips": 2562,
+    "stop_times": 2562,
+    "headways": 49,
+    "shapes": 23
+  }
+}

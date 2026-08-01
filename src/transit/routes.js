@@ -1,0 +1,113 @@
+export const NETWORK = {
+  city: 'Torrevieja',
+  country: 'ES',
+  timezone: 'Europe/Madrid',
+  operator: 'AVANZA',
+  agencyName: 'Avanza Torrevieja',
+  agencyUrl: 'https://torrevieja.avanzagrupo.com/',
+  agencyTimezone: 'Europe/Madrid',
+  networkStartDate: '2026-07-27',
+}
+
+export const ROUTES = [
+  {
+    id: '071',
+    linsae: '071',
+    linweb: 'C',
+    shortName: 'C',
+    longName: 'Gregorio Maranon - Estacion de Autobuses - Polideportivo - C. Salud Acequion',
+    isNight: false,
+  },
+  {
+    id: '081',
+    linsae: '081',
+    linweb: '01',
+    shortName: '01',
+    longName: 'Hospital - Los Altos - Punta Prima - Rocio del Mar',
+    isNight: false,
+  },
+  {
+    id: '082',
+    linsae: '082',
+    linweb: '02',
+    shortName: '02',
+    longName: 'Hospital - Los Balcones - Lago Jardin',
+    isNight: false,
+  },
+  {
+    id: '083',
+    linsae: '083',
+    linweb: '03',
+    shortName: '03',
+    longName: 'Gregorio Maranon - Desiderio Rodriguez - Mar Azul - Hospital',
+    isNight: false,
+  },
+  {
+    id: '084',
+    linsae: '084',
+    linweb: '04',
+    shortName: '04',
+    longName: 'Gregorio Maranon - Centros Comerciales - La Torreta - C. Salud La Siesta',
+    isNight: false,
+  },
+  {
+    id: '085',
+    linsae: '085',
+    linweb: '05',
+    shortName: '05',
+    longName: 'Gregorio Maranon - Centros Comerciales - C. Salud La Siesta - San Luis',
+    isNight: false,
+  },
+  {
+    id: '086',
+    linsae: '086',
+    linweb: '06',
+    shortName: '06',
+    longName: 'Gregorio Maranon - Polideportivo - Hospital Quiron - C. Salud La Mata',
+    isNight: false,
+  },
+  {
+    id: '087',
+    linsae: '087',
+    linweb: '07',
+    shortName: '07',
+    longName: 'Gregorio Maranon - Ramon Gallud - Av. Paris - La Mata',
+    isNight: false,
+  },
+  {
+    id: '088',
+    linsae: '088',
+    linweb: '08',
+    shortName: '08',
+    longName: 'Gregorio Maranon - Cabo Cervera - Estacion de Autobuses - La Mata',
+    isNight: false,
+  },
+  {
+    id: '091',
+    linsae: '091',
+    linweb: 'N1',
+    shortName: 'N1',
+    longName: 'Gregorio Maranon - Playa Los Locos - Polideportivo - La Mata',
+    isNight: true,
+  },
+  {
+    id: '092',
+    linsae: '092',
+    linweb: 'N2',
+    shortName: 'N2',
+    longName: 'Gregorio Maranon - Centros Comerciales - La Torreta - San Luis',
+    isNight: true,
+  },
+  {
+    id: '093',
+    linsae: '093',
+    linweb: 'N3',
+    shortName: 'N3',
+    longName: 'Gregorio Maranon - Desiderio Rodriguez - Los Balcones - Los Altos',
+    isNight: true,
+  },
+]
+
+export function apiUrl(routeId) {
+  return `https://torrevieja.avanzagrupo.com/index.php?option=com_avanzainfo&task=display.apiLineDetail&lineId=${routeId}`
+}

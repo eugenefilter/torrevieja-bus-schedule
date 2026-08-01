@@ -1,0 +1,4 @@
+service_id,date,exception_type
+official-20260729,20260729,1
+official-20260801,20260801,1
+official-20260802,20260802,1

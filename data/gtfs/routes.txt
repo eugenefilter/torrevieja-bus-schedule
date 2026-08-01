@@ -1,0 +1,13 @@
+route_id,agency_id,route_short_name,route_long_name,route_type
+071,avanza-torrevieja,C,Gregorio Maranon - Estacion de Autobuses - Polideportivo - C. Salud Acequion,3
+081,avanza-torrevieja,01,Hospital - Los Altos - Punta Prima - Rocio del Mar,3
+082,avanza-torrevieja,02,Hospital - Los Balcones - Lago Jardin,3
+083,avanza-torrevieja,03,Gregorio Maranon - Desiderio Rodriguez - Mar Azul - Hospital,3
+084,avanza-torrevieja,04,Gregorio Maranon - Centros Comerciales - La Torreta - C. Salud La Siesta,3
+085,avanza-torrevieja,05,Gregorio Maranon - Centros Comerciales - C. Salud La Siesta - San Luis,3
+086,avanza-torrevieja,06,Gregorio Maranon - Polideportivo - Hospital Quiron - C. Salud La Mata,3
+087,avanza-torrevieja,07,Gregorio Maranon - Ramon Gallud - Av. Paris - La Mata,3
+088,avanza-torrevieja,08,Gregorio Maranon - Cabo Cervera - Estacion de Autobuses - La Mata,3
+091,avanza-torrevieja,N1,Gregorio Maranon - Playa Los Locos - Polideportivo - La Mata,3
+092,avanza-torrevieja,N2,Gregorio Maranon - Centros Comerciales - La Torreta - San Luis,3
+093,avanza-torrevieja,N3,Gregorio Maranon - Desiderio Rodriguez - Los Balcones - Los Altos,3
