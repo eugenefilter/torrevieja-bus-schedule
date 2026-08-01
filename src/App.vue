@@ -265,9 +265,9 @@ const renderMapData = ({ preserveView = false } = {}) => {
 onMounted(async () => {
   try {
     const [stopsResponse, routesResponse, transitResponse] = await Promise.all([
-      fetch('/data/geojson/stops.geojson'),
-      fetch('/data/geojson/routes.geojson'),
-      fetch('/data/normalized/torrevieja-transit.json'),
+      fetch(`${import.meta.env.BASE_URL}data/geojson/stops.geojson`),
+      fetch(`${import.meta.env.BASE_URL}data/geojson/routes.geojson`),
+      fetch(`${import.meta.env.BASE_URL}data/normalized/torrevieja-transit.json`),
     ])
     if (!stopsResponse.ok || !routesResponse.ok || !transitResponse.ok) throw new Error('Exported transit data is not available yet.')
     stops.value = (await stopsResponse.json()).features
