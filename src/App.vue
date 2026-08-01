@@ -176,12 +176,6 @@ const scheduleGroups = computed(() => {
     .sort((a, b) => `${a.route.linweb}-${a.direction_id}`.localeCompare(`${b.route.linweb}-${b.direction_id}`, undefined, { numeric: true }))
 })
 
-const activeRouteLabel = computed(() => {
-  if (selectedRoute.value === 'all') return 'All routes'
-  const route = routeOptions.value.find((item) => item.id === selectedRoute.value)
-  return route ? `${route.linweb} - ${route.name}` : selectedRoute.value
-})
-
 const asLatLng = ([lon, lat]) => [lat, lon]
 
 const popupContent = (stop) => {
@@ -471,21 +465,6 @@ watch(selectedStopId, updateSelectedStopMarker)
         <div v-if="loadError" class="grid min-h-[400px] place-items-center p-6 text-center font-semibold text-red-600 md:min-h-[560px] dark:text-red-400">{{ loadError }}</div>
         <div v-else ref="mapEl" class="h-[min(72vh,760px)] min-h-[400px] w-full md:min-h-[640px]" aria-label="Torrevieja bus route map"></div>
       </section>
-    </section>
-
-    <section class="mt-4 grid grid-cols-1 gap-3 sm:grid-cols-[2fr_1fr_1fr]">
-      <div class="rounded-xl border border-slate-200 bg-white px-[18px] py-4 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
-        <strong class="block text-xl font-bold tracking-tight text-slate-900 dark:text-neutral-50">{{ activeRouteLabel }}</strong>
-        <span class="text-[12.5px] font-medium text-slate-500 dark:text-neutral-400">selected route</span>
-      </div>
-      <div class="rounded-xl border border-slate-200 bg-white px-[18px] py-4 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
-        <strong class="block text-xl font-bold tracking-tight text-slate-900 dark:text-neutral-50">{{ filteredRoutes.length }}</strong>
-        <span class="text-[12.5px] font-medium text-slate-500 dark:text-neutral-400">directions shown</span>
-      </div>
-      <div class="rounded-xl border border-slate-200 bg-white px-[18px] py-4 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
-        <strong class="block text-xl font-bold tracking-tight text-slate-900 dark:text-neutral-50">{{ filteredStops.length }}</strong>
-        <span class="text-[12.5px] font-medium text-slate-500 dark:text-neutral-400">stops shown</span>
-      </div>
     </section>
   </main>
 </template>
