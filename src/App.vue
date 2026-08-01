@@ -297,6 +297,11 @@ onMounted(async () => {
 
 watch([filteredRoutes, filteredStops], () => renderMapData({ preserveView: Boolean(selectedStopId.value) }))
 watch(selectedStopId, updateSelectedStopMarker)
+watch(selectedRoute, () => {
+  selectedStopId.value = ''
+  selectedStopRouteId.value = ''
+  stopQuery.value = ''
+})
 </script>
 
 <template>
