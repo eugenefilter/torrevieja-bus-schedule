@@ -1,0 +1,3709 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "58",
+        "stop_code": "58",
+        "stop_name": "N-332, s/n (Hotel Torrejoven)_TRV",
+        "route_ids": [
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7136,
+          37.9491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "68",
+        "stop_code": "68",
+        "stop_name": "Av. Espuña, ft 89 (C.C. Los Altos) _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.721,
+          37.9543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "82",
+        "stop_code": "82",
+        "stop_name": "Hospital de Torrevieja, s/n _TRV",
+        "route_ids": [
+          "081",
+          "082",
+          "083"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7173,
+          37.9643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "95",
+        "stop_code": "95",
+        "stop_name": "Av. Dr. Gregorio Marañón, 30 _TRV",
+        "route_ids": [
+          "083"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6901,
+          37.977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "96",
+        "stop_code": "96",
+        "stop_name": "Ctra. CV-95, s/n (Farmacia) _TRV",
+        "route_ids": [
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7219,
+          37.9631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "99",
+        "stop_code": "99",
+        "stop_name": "Av. Tomas Boj Andreu, 8 _TRV",
+        "route_ids": [
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.717,
+          37.9546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "109",
+        "stop_code": "109",
+        "stop_name": "C/ Calera, 27 _TRV",
+        "route_ids": [
+          "071",
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6764,
+          37.9835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "110",
+        "stop_code": "110",
+        "stop_name": "C/ Mar Rizada, s/n _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7092,
+          37.947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "111",
+        "stop_code": "111",
+        "stop_name": "C/ La Sagra, 1B _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7247,
+          37.9548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "114",
+        "stop_code": "114",
+        "stop_name": "C/ La Sagra, ft 164 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7231,
+          37.9566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "115",
+        "stop_code": "115",
+        "stop_name": "C/ La Sagra, 42 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7191,
+          37.9565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "138",
+        "stop_code": "138",
+        "stop_name": "Av. de la Asunción, 5 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7241,
+          37.9616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "140",
+        "stop_code": "140",
+        "stop_name": "C/ Villa Madrid, 13_TRV",
+        "route_ids": [
+          "083",
+          "084",
+          "085",
+          "086",
+          "087",
+          "088",
+          "091",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6894,
+          37.9785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "141",
+        "stop_code": "141",
+        "stop_name": "Av. Dr. Gregorio Marañón, 76 _TRV",
+        "route_ids": [
+          "083"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6945,
+          37.9723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "145",
+        "stop_code": "145",
+        "stop_name": "Av. los Nenúfares, 821 (ITV) _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6912,
+          37.996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "149",
+        "stop_code": "149",
+        "stop_name": "C/ de las Gardenias, s/n _TRV",
+        "route_ids": [
+          "084",
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6952,
+          37.9977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "151",
+        "stop_code": "151",
+        "stop_name": "C/ de las Gardenias, s/n _TRV",
+        "route_ids": [
+          "084",
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6952,
+          37.9976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "153",
+        "stop_code": "153",
+        "stop_name": "C/ Efrén Gutierrez Mateo, s/n (ft Parque) _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6953,
+          38.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "163",
+        "stop_code": "163",
+        "stop_name": "C/ Efrén Gutierrez Mateo, s/n (Parque) _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6954,
+          38.0025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "166",
+        "stop_code": "166",
+        "stop_name": "C/ Henri Matisse, 36 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6882,
+          38.0114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "167",
+        "stop_code": "167",
+        "stop_name": "C/ Henri Matisse, 328A _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6882,
+          38.0114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "168",
+        "stop_code": "168",
+        "stop_name": "C/ Elgar, ft 21 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6838,
+          38.0139
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "172",
+        "stop_code": "172",
+        "stop_name": "C/ Elgar, 21 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6838,
+          38.0138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "174",
+        "stop_code": "174",
+        "stop_name": "C/ Liszt, 4",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6867,
+          38.0173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "175",
+        "stop_code": "175",
+        "stop_name": "C/ Purcell, 55 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6869,
+          38.0174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "177",
+        "stop_code": "177",
+        "stop_name": "Av. Abando, 1 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6975,
+          38.0185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "178",
+        "stop_code": "178",
+        "stop_name": "C/ Rembrandt, 2 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6827,
+          38.0107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "179",
+        "stop_code": "179",
+        "stop_name": "C/ Rossini, 26 (C.S. La Siesta) _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6919,
+          38.0127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "180",
+        "stop_code": "180",
+        "stop_name": "Av. Cortes Valencianas, s/n (v. serv.) _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6731,
+          37.9949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "181",
+        "stop_code": "181",
+        "stop_name": "Av. Asociación Victimas del Terrorismo, 42 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6773,
+          37.9996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "182",
+        "stop_code": "182",
+        "stop_name": "Av. Asociación Victimas del Terrorismo, 1 _TRV",
+        "route_ids": [
+          "086",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6774,
+          37.9996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "183",
+        "stop_code": "183",
+        "stop_name": "Av. Asociación Victimas del Terrorismo, 40 _TRV",
+        "route_ids": [
+          "086",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6739,
+          38.0024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "186",
+        "stop_code": "186",
+        "stop_name": "Av. Torreblanca, 6B _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6624,
+          38.0082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "188",
+        "stop_code": "188",
+        "stop_name": "Av. Torreblanca, 3 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6589,
+          38.0095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "192",
+        "stop_code": "192",
+        "stop_name": "C/ de los Geranios s/n (C.C.) _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6919,
+          37.9874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "196",
+        "stop_code": "196",
+        "stop_name": "Ctra. CV-905, s/n (ft Policía Local) _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6884,
+          37.9911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "200",
+        "stop_code": "200",
+        "stop_name": "C/ de los Geranios s/n (ft C.C.) _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6919,
+          37.9875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "201",
+        "stop_code": "201",
+        "stop_name": "Av. Torreblanca, ft 6B _TRV",
+        "route_ids": [
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6625,
+          38.0081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "211",
+        "stop_code": "211",
+        "stop_name": "Av. Rosa Mazón Valero, s/n (ft. G.M.) _TRV",
+        "route_ids": [
+          "092",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6789,
+          37.9916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "267",
+        "stop_code": "267",
+        "stop_name": "Av. Cortes Valencianas, 3 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6785,
+          37.9862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "374",
+        "stop_code": "374",
+        "stop_name": "Av. Cortes Valencianas, s/n (depósito) _TRV",
+        "route_ids": [
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6673,
+          38.0054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "400",
+        "stop_code": "400",
+        "stop_name": "C/ Ramón Gallud, 74 (H.Fontana) _TRV",
+        "route_ids": [
+          "071",
+          "085",
+          "086",
+          "087",
+          "088",
+          "091",
+          "092",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6798,
+          37.9773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "401",
+        "stop_code": "401",
+        "stop_name": "C/ Fuensanta, 3 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6714,
+          37.977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "402",
+        "stop_code": "402",
+        "stop_name": "Av. de la Purísima, 10 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6694,
+          37.9777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "403",
+        "stop_code": "403",
+        "stop_name": "Av. de la Purísima, 20 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6658,
+          37.978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "404",
+        "stop_code": "404",
+        "stop_name": "Av. Dr. Mariano Ruiz Cánovas, ft 18 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6618,
+          37.9824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "405",
+        "stop_code": "405",
+        "stop_name": "Av. Dr. Mariano Ruiz Cánovas, ft 372 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6586,
+          37.9845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "406",
+        "stop_code": "406",
+        "stop_name": "Av. Alfredo Nobel, ft 17 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6569,
+          37.9868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "407",
+        "stop_code": "407",
+        "stop_name": "Av. Alfredo Nobel, ft 123A _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6561,
+          37.9905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "408",
+        "stop_code": "408",
+        "stop_name": "Av. Alfredo Nobel, ft 143 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6559,
+          37.9934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "409",
+        "stop_code": "409",
+        "stop_name": "Av. Alfredo Nobel, ft 199 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6555,
+          37.9961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "410",
+        "stop_code": "410",
+        "stop_name": "Av. Alfredo Nobel, 150 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6526,
+          37.999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "411",
+        "stop_code": "411",
+        "stop_name": "Av. Juan Martinez Román, s/n _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6504,
+          38.0021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "412",
+        "stop_code": "412",
+        "stop_name": "C/ Bogavante, s/n _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.65,
+          38.0051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "413",
+        "stop_code": "413",
+        "stop_name": "Ctra. del Torrejón, ft 1 _TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.653,
+          38.0023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "414",
+        "stop_code": "414",
+        "stop_name": "Ctra. del Torrejón, 448_TRV",
+        "route_ids": [
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6557,
+          38.0043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "415",
+        "stop_code": "415",
+        "stop_name": "Ronda José Samper García, s/n _TRV",
+        "route_ids": [
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.657,
+          38.0093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "416",
+        "stop_code": "416",
+        "stop_name": "Rda. José Samper García, 2280 _TRV",
+        "route_ids": [
+          "086",
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.66,
+          38.0125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "417",
+        "stop_code": "417",
+        "stop_name": "Av. Holanda, 51 (C.S. La Mata) _TRV",
+        "route_ids": [
+          "086",
+          "087",
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6587,
+          38.0183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "418",
+        "stop_code": "418",
+        "stop_name": "Av. Alemania, 42 _TRV",
+        "route_ids": [
+          "087",
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6542,
+          38.0207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "419",
+        "stop_code": "419",
+        "stop_name": "Av. Virgen del Carmen, 24 _TRV",
+        "route_ids": [
+          "087",
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.655,
+          38.0249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "420",
+        "stop_code": "420",
+        "stop_name": "C/ del Mar, 25 _TRV",
+        "route_ids": [
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6553,
+          38.0279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "421",
+        "stop_code": "421",
+        "stop_name": "C/ Mayor, 59 _TRV",
+        "route_ids": [
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6541,
+          38.027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "422",
+        "stop_code": "422",
+        "stop_name": "Av. de los Daneses, ft 9 _TRV",
+        "route_ids": [
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6547,
+          38.0236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "423",
+        "stop_code": "423",
+        "stop_name": "Av. de los Europeos, 8 _TRV",
+        "route_ids": [
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6552,
+          38.0205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "424",
+        "stop_code": "424",
+        "stop_name": "Av. Bélgica, 7 (C.S. La Mata) _TRV",
+        "route_ids": [
+          "086",
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6573,
+          38.0181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "425",
+        "stop_code": "425",
+        "stop_name": "Av. Francia, s/n (Parque) _TRV",
+        "route_ids": [
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6559,
+          38.0167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "426",
+        "stop_code": "426",
+        "stop_name": "Rda. José Samper García, ft 2280 _TRV",
+        "route_ids": [
+          "086",
+          "087",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6601,
+          38.0124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "427",
+        "stop_code": "427",
+        "stop_name": "Rda. Jose Samper, esq. Av. Agua _TRV",
+        "route_ids": [
+          "086",
+          "087",
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6572,
+          38.0091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "428",
+        "stop_code": "428",
+        "stop_name": "Ctra. del Torrejón, ft 448 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.656,
+          38.0044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "429",
+        "stop_code": "429",
+        "stop_name": "Ctra. del Torrejón, 1 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6531,
+          38.0022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "430",
+        "stop_code": "430",
+        "stop_name": "Av. Alfredo Nobel, 199 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6555,
+          37.9962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "431",
+        "stop_code": "431",
+        "stop_name": "Av. Alfredo Nobel, 143 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.656,
+          37.9933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "432",
+        "stop_code": "432",
+        "stop_name": "Av. Alfredo Nobel, 123A _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6563,
+          37.9907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "433",
+        "stop_code": "433",
+        "stop_name": "Av. Alfredo Nobel, 17 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6569,
+          37.9872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "434",
+        "stop_code": "434",
+        "stop_name": "Av. Dr. Mariano Ruiz Cánovas, 372 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6586,
+          37.9846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "435",
+        "stop_code": "435",
+        "stop_name": "Av. Dr. Mariano Ruiz Cánovas, 24 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6614,
+          37.9829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "436",
+        "stop_code": "436",
+        "stop_name": "Av. Dr. Mariano Ruiz Cánovas, 5 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6636,
+          37.9808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "437",
+        "stop_code": "437",
+        "stop_name": "Av. Habaneras, 95 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6667,
+          37.9806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "438",
+        "stop_code": "438",
+        "stop_name": "Av. Habaneras, s/n (esq. María Gil) _TRV",
+        "route_ids": [
+          "071",
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6724,
+          37.9802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "439",
+        "stop_code": "439",
+        "stop_name": "C/ Antonio Machado, 137 (Est. Autobuses) _TRV",
+        "route_ids": [
+          "071",
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6758,
+          37.9797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "440",
+        "stop_code": "440",
+        "stop_name": "Av. Diego Ramírez Pastor, 125 _TRV",
+        "route_ids": [
+          "085",
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6837,
+          37.9807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "443",
+        "stop_code": "443",
+        "stop_name": "Av. Alfredo Nobel, ft 150 _TRV",
+        "route_ids": [
+          "088"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6528,
+          37.9989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "451",
+        "stop_code": "451",
+        "stop_name": "Av. Cortes Valencianas, 39 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6759,
+          37.9907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "453",
+        "stop_code": "453",
+        "stop_name": "Av. Gregorio Marañón, 7 _TRV",
+        "route_ids": [
+          "071",
+          "083",
+          "084",
+          "085",
+          "086",
+          "087",
+          "088",
+          "091",
+          "092",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6867,
+          37.9768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "501",
+        "stop_code": "501",
+        "stop_name": "C/ La Calera, 22 (C.S. Lomas) _TRV",
+        "route_ids": [
+          "071",
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6729,
+          37.9838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "502",
+        "stop_code": "502",
+        "stop_name": "Av. París, s/n (esq. Bruselas) _TRV",
+        "route_ids": [
+          "071",
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6672,
+          37.9841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "503",
+        "stop_code": "503",
+        "stop_name": "C/ París, s/n (Pza. Sevilla) _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6636,
+          37.9888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "504",
+        "stop_code": "504",
+        "stop_name": "Av. Paris, ft 207 _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6625,
+          37.9942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "505",
+        "stop_code": "505",
+        "stop_name": "Av. José Zorrilla, s/n (Parque) _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.661,
+          37.9989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "506",
+        "stop_code": "506",
+        "stop_name": "Rda. Jose Samper García, 2B _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6589,
+          38.0037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "507",
+        "stop_code": "507",
+        "stop_name": "Rda. Jose Samper García, 1A _TRV",
+        "route_ids": [
+          "086",
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6591,
+          38.0037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "508",
+        "stop_code": "508",
+        "stop_name": "Av. José Zorrilla s/n (ft Parque) _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6611,
+          37.9989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "509",
+        "stop_code": "509",
+        "stop_name": "Av. París, 207 _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6627,
+          37.9942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "510",
+        "stop_code": "510",
+        "stop_name": "C/ París, 123 _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6638,
+          37.9889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "511",
+        "stop_code": "511",
+        "stop_name": "C/ París, 55 _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6673,
+          37.9842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "512",
+        "stop_code": "512",
+        "stop_name": "C/ Salinero, s/n (C.S. Lomas) _TRV",
+        "route_ids": [
+          "087"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6738,
+          37.9842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "513",
+        "stop_code": "513",
+        "stop_name": "Rda. Ricardo Lafuente, 17 _TRV",
+        "route_ids": [
+          "086",
+          "087",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6832,
+          37.9844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "514",
+        "stop_code": "514",
+        "stop_name": "C/ Orihuela, 71 _TRV",
+        "route_ids": [
+          "071",
+          "084",
+          "085",
+          "086",
+          "087",
+          "091",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6865,
+          37.9826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "550",
+        "stop_code": "550",
+        "stop_name": "C/ Orihuela, 86 _TRV",
+        "route_ids": [
+          "084",
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6863,
+          37.9827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "555",
+        "stop_code": "555",
+        "stop_name": "Av. de la Mancha, s/n (esq. Alonso Quijano) _TRV",
+        "route_ids": [
+          "071"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.67,
+          37.9966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "556",
+        "stop_code": "556",
+        "stop_name": "Av. Monge y Bielsa, s/n (Zona deportiva) _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6753,
+          37.9965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "558",
+        "stop_code": "558",
+        "stop_name": "Av. Torreblanca, 37 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6666,
+          38.0059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "562",
+        "stop_code": "562",
+        "stop_name": "C/ Perseo, 17 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6628,
+          38.0019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "563",
+        "stop_code": "563",
+        "stop_name": "C/ Argonautas, 12_TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6643,
+          38.0033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "564",
+        "stop_code": "564",
+        "stop_name": "Av. Torreblanca, 22 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6659,
+          38.006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "565",
+        "stop_code": "565",
+        "stop_name": "Hospital Quirón, s/n _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6728,
+          38.0063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "567",
+        "stop_code": "567",
+        "stop_name": "Av. Cortes Valencianas, s/n (ADIEM) _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6729,
+          37.9959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "573",
+        "stop_code": "573",
+        "stop_name": "Av. Cortes Valencianas, 12 _TRV",
+        "route_ids": [
+          "086",
+          "092",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6783,
+          37.9861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "601",
+        "stop_code": "601",
+        "stop_name": "Av. Diego Ramírez Pastor, 39_TRV",
+        "route_ids": [
+          "071",
+          "083",
+          "084",
+          "085",
+          "086",
+          "087",
+          "088",
+          "091",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6875,
+          37.98
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "602",
+        "stop_code": "602",
+        "stop_name": "C/ Villa Madrid, s/n (bajo N-332) _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6901,
+          37.9825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "605",
+        "stop_code": "605",
+        "stop_name": "C/ Francisco Atienza, 8 (Carrefour) _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6852,
+          37.9921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "606",
+        "stop_code": "606",
+        "stop_name": "C/ Francisco Diaz Martínez, 123 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6864,
+          37.9946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "607",
+        "stop_code": "607",
+        "stop_name": "Av. Ópera, 1 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6892,
+          37.9983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "608",
+        "stop_code": "608",
+        "stop_name": "C/ Bizet, 8 _TRV",
+        "route_ids": [
+          "084",
+          "085",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6947,
+          38.0106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "609",
+        "stop_code": "609",
+        "stop_name": "C/ Rossini, ft 26 (C.S. La Siesta) _TRV",
+        "route_ids": [
+          "084",
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6921,
+          38.0128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "610",
+        "stop_code": "610",
+        "stop_name": "C/ Rembrandt, 100 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6827,
+          38.0106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "614",
+        "stop_code": "614",
+        "stop_name": "C/ Purcell, ft 1047 _TRV",
+        "route_ids": [
+          "085",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6918,
+          38.0202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "615",
+        "stop_code": "615",
+        "stop_name": "Av. Robleda, 9 _TRV",
+        "route_ids": [
+          "085",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6957,
+          38.0224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "616",
+        "stop_code": "616",
+        "stop_name": "Av. Baracaldo, ft 76 _TRV",
+        "route_ids": [
+          "085",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6987,
+          38.0232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "617",
+        "stop_code": "617",
+        "stop_name": "Pza. Tolosa, s/n _TRV",
+        "route_ids": [
+          "085",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7028,
+          38.0215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "620",
+        "stop_code": "620",
+        "stop_name": "Av. Ópera, ft 1 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6893,
+          37.9982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "621",
+        "stop_code": "621",
+        "stop_name": "C/ Francisco Díez Martínez, 160 _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6864,
+          37.9945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "622",
+        "stop_code": "622",
+        "stop_name": "C/ Francisco Atienza Ferrandez, s/n (Carref.) _TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6855,
+          37.9921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "623",
+        "stop_code": "623",
+        "stop_name": "Ctra. CV-905, s/n (Policia Local) _TRV",
+        "route_ids": [
+          "084",
+          "085",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6889,
+          37.9915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "625",
+        "stop_code": "625",
+        "stop_name": "C/ Villa Madrid, s/n (Bajo N-332) _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6902,
+          37.9827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "626",
+        "stop_code": "626",
+        "stop_name": "C/ Guridi, ft 12 _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6941,
+          38.0103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "653",
+        "stop_code": "653",
+        "stop_name": "Av. de las Urracas, ft 85 _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.698,
+          37.9968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "654",
+        "stop_code": "654",
+        "stop_name": "C/ Urano, 610 _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7007,
+          37.9987
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "655",
+        "stop_code": "655",
+        "stop_name": "C/ Cerezo, 5C _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7028,
+          38.0009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "656",
+        "stop_code": "656",
+        "stop_name": "C/ Manuel Rodríguez Manolete, 66 _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6991,
+          38.0014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "657",
+        "stop_code": "657",
+        "stop_name": "C/ Paloma, ft 2 _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6964,
+          38.005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "658",
+        "stop_code": "658",
+        "stop_name": "C/ Vicente Solano Ruiz, 33 _TRV",
+        "route_ids": [
+          "084",
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6943,
+          38.0066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "659",
+        "stop_code": "659",
+        "stop_name": "C/ Antonio Conesa Morales, 22 _TRV",
+        "route_ids": [
+          "084",
+          "085",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6948,
+          38.0086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "660",
+        "stop_code": "660",
+        "stop_name": "C/ Antonio Conesa Morales, ft 10 _TRV",
+        "route_ids": [
+          "084",
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6948,
+          38.0089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "661",
+        "stop_code": "661",
+        "stop_name": "C/ Vicente Solano Ruiz, 3 _TRV",
+        "route_ids": [
+          "084",
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6944,
+          38.0067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "662",
+        "stop_code": "662",
+        "stop_name": "C/ Paco Camino s/n_TRV",
+        "route_ids": [
+          "084",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6966,
+          38.0053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "663",
+        "stop_code": "663",
+        "stop_name": "C/ Manuel Rodríguez Manolete, 619_TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6991,
+          38.0014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "664",
+        "stop_code": "664",
+        "stop_name": "C/ Cerezo, ft 5C_TRV",
+        "route_ids": [
+          "084",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7029,
+          38.0009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "665",
+        "stop_code": "665",
+        "stop_name": "C/ Urano, ft 610_TRV",
+        "route_ids": [
+          "084",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.701,
+          37.9986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "666",
+        "stop_code": "666",
+        "stop_name": "Av. de las Urracas, 85 _TRV",
+        "route_ids": [
+          "084",
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6979,
+          37.9967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "667",
+        "stop_code": "667",
+        "stop_name": "Av. los Nenúfares, 932 _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6913,
+          37.9966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "668",
+        "stop_code": "668",
+        "stop_name": "Av. los Nenúfares, s/n _TRV",
+        "route_ids": [
+          "084"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.691,
+          37.9941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "669",
+        "stop_code": "669",
+        "stop_name": "Av. Rosa Mazón Valero, s/n (C.C. Habaneras) _TRV",
+        "route_ids": [
+          "071",
+          "092",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6857,
+          37.9898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "670",
+        "stop_code": "670",
+        "stop_name": "C/ Urbano Arregui, 6 (C.Salud) _TRV",
+        "route_ids": [
+          "071",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.693,
+          37.9775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "701",
+        "stop_code": "701",
+        "stop_name": "Av. Pinoso, s/n  (cinta sal) _TRV",
+        "route_ids": [
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6954,
+          37.9722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "702",
+        "stop_code": "702",
+        "stop_name": "Av. Desiderio Rodríguez, 120 _TRV",
+        "route_ids": [
+          "083",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6995,
+          37.9671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "703",
+        "stop_code": "703",
+        "stop_name": "Av. Desiderio Rodríguez, s/n (C.C.) _TRV",
+        "route_ids": [
+          "083",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7038,
+          37.9625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "705",
+        "stop_code": "705",
+        "stop_name": "Av. de la Asunción, 10 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7238,
+          37.9624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "710",
+        "stop_code": "710",
+        "stop_name": "Av. Angel García Rogel, ft 36 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7329,
+          37.9607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "711",
+        "stop_code": "711",
+        "stop_name": "Av. Angel García Rogel, 1 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7316,
+          37.9646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "712",
+        "stop_code": "712",
+        "stop_name": "Av. Laguna Azul, 1 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7384,
+          37.9623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "713",
+        "stop_code": "713",
+        "stop_name": "Av. Laguna Azul, ft 135 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7359,
+          37.9642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "715",
+        "stop_code": "715",
+        "stop_name": "Av. Desiderio Rodríguez, s/n (ft. C.C.) _TRV",
+        "route_ids": [
+          "083",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7032,
+          37.9629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "716",
+        "stop_code": "716",
+        "stop_name": "Av. Desiderio Rodríguez, 31 _TRV",
+        "route_ids": [
+          "083",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6994,
+          37.9671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "717",
+        "stop_code": "717",
+        "stop_name": "Av. Dr. Gregorio Marañón, ft 80 _TRV",
+        "route_ids": [
+          "083",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6947,
+          37.9719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "722",
+        "stop_code": "722",
+        "stop_name": "CV-95, s/n (ft. Hotel Dña Monse) _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7324,
+          37.9654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "723",
+        "stop_code": "723",
+        "stop_name": "CV- 95, s/n (Hotel Dña Monse) _TRV",
+        "route_ids": [
+          "082",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7333,
+          37.9656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "724",
+        "stop_code": "724",
+        "stop_name": "CV-95, (ft C/ Ucrania, 30) _TRV",
+        "route_ids": [
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.724,
+          37.9636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "750",
+        "stop_code": "750",
+        "stop_name": "Pº de los Conquistadores, s/n _TRV",
+        "route_ids": [
+          "083"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7038,
+          37.9573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "751",
+        "stop_code": "751",
+        "stop_name": "Av. Don Juan de Austria, 4 _TRV",
+        "route_ids": [
+          "083"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7058,
+          37.9574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "752",
+        "stop_code": "752",
+        "stop_name": "C/ Churruca, 5 _TRV",
+        "route_ids": [
+          "083"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.706,
+          37.9591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "753",
+        "stop_code": "753",
+        "stop_name": "Av. Tomás Boj Andreu, 39 _TRV",
+        "route_ids": [
+          "081",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7177,
+          37.9587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "754",
+        "stop_code": "754",
+        "stop_name": "C/ La Sagra, 55 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7192,
+          37.9567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "755",
+        "stop_code": "755",
+        "stop_name": "C/ La Sagra, 164 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7232,
+          37.9567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "756",
+        "stop_code": "756",
+        "stop_name": "C/ La Sagra, 44 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7248,
+          37.9547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "759",
+        "stop_code": "759",
+        "stop_name": "C/ Escorpiones, 1 _TRV",
+        "route_ids": [
+          "081",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.716,
+          37.9486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "760",
+        "stop_code": "760",
+        "stop_name": "Av. Las Olas, 22 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7126,
+          37.9478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "762",
+        "stop_code": "762",
+        "stop_name": "Av. Las Olas, 5 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7123,
+          37.9479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "763",
+        "stop_code": "763",
+        "stop_name": "C/ Escorpiones, s/n (C.C) _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.716,
+          37.9488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "765",
+        "stop_code": "765",
+        "stop_name": "Av. Tomás Boj Andreu, ft 39 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7176,
+          37.9588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "766",
+        "stop_code": "766",
+        "stop_name": "Av. Dr. Gregorio Marañón, 29 _TRV",
+        "route_ids": [
+          "071",
+          "083",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6905,
+          37.9765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "777",
+        "stop_code": "777",
+        "stop_name": "Av. Angel García Rogel, 4_TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7316,
+          37.9647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "976",
+        "stop_code": "976",
+        "stop_name": "Av. de la Asunción, 40 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7254,
+          37.959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "977",
+        "stop_code": "977",
+        "stop_name": "C/ Carla Vaquera, s/n (ft. Plz. Tomás) _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7285,
+          37.9599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "978",
+        "stop_code": "978",
+        "stop_name": "C/ Calpe, s/n _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7361,
+          37.9654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "979",
+        "stop_code": "979",
+        "stop_name": "C/ Teulada, 37 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7388,
+          37.9652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "980",
+        "stop_code": "980",
+        "stop_name": "Av. de Denia, s/n (ft. C.C.) _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7419,
+          37.9675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "981",
+        "stop_code": "981",
+        "stop_name": "C/ Javea, 11 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7381,
+          37.967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "982",
+        "stop_code": "982",
+        "stop_name": "Av. Angel García Rogel, 36 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7329,
+          37.9608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "983",
+        "stop_code": "983",
+        "stop_name": "C/ Carla Vaquera, s/n (Plz. Tomás) _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7288,
+          37.96
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "984",
+        "stop_code": "984",
+        "stop_name": "C/ Iradier Bal, 31 _TRV",
+        "route_ids": [
+          "082"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7248,
+          37.9591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "985",
+        "stop_code": "985",
+        "stop_name": "C/ Ramón Gallud, 106 _TRV",
+        "route_ids": [
+          "071",
+          "088",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6768,
+          37.9775
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "987",
+        "stop_code": "987",
+        "stop_name": "C/ Ramón Gallud, 198 _TRV",
+        "route_ids": [
+          "071"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6698,
+          37.9787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "988",
+        "stop_code": "988",
+        "stop_name": "C/ Apolo, 66 _TRV",
+        "route_ids": [
+          "071",
+          "085",
+          "086",
+          "087",
+          "088",
+          "092",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.679,
+          37.9811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "990",
+        "stop_code": "990",
+        "stop_name": "Av. Cortes Valencianas, 48 _TRV",
+        "route_ids": [
+          "086",
+          "092",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6761,
+          37.9896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "991",
+        "stop_code": "991",
+        "stop_name": "Av. Diego Ramírez Pastor, 1 (Biblioteca) _TRV",
+        "route_ids": [
+          "071",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6909,
+          37.9793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "992",
+        "stop_code": "992",
+        "stop_name": "Av. Baleares, 83 _TRV",
+        "route_ids": [
+          "071"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6641,
+          37.9893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "993",
+        "stop_code": "993",
+        "stop_name": "Av. de Córcega, 13 _TRV",
+        "route_ids": [
+          "071"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6678,
+          37.9914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "994",
+        "stop_code": "994",
+        "stop_name": "Av. de la Mancha, 40 _TRV",
+        "route_ids": [
+          "071"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6659,
+          37.9966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "995",
+        "stop_code": "995",
+        "stop_name": "Av. Monge y Bielsa, s/n (Zona deportiva) _TRV",
+        "route_ids": [
+          "071",
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6758,
+          37.9966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "996",
+        "stop_code": "996",
+        "stop_name": "Av. Delfina Viudes, 1 _TRV",
+        "route_ids": [
+          "071",
+          "091"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6798,
+          37.9932
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "997",
+        "stop_code": "997",
+        "stop_name": "Av. Espuña, 89 (C.C. Los Altos) _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7213,
+          37.9543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "998",
+        "stop_code": "998",
+        "stop_name": "C/ Manzanilla, 92 _TRV",
+        "route_ids": [
+          "081",
+          "093"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7187,
+          37.9517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "999",
+        "stop_code": "999",
+        "stop_name": "C/ Manzanilla, ft 92 _TRV",
+        "route_ids": [
+          "081"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7187,
+          37.9517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "1032",
+        "stop_code": "1032",
+        "stop_name": "C/ Purcell, 1047_TRV",
+        "route_ids": [
+          "085"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6917,
+          38.0201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "1034",
+        "stop_code": "1034",
+        "stop_name": "C/ Granados, 66 _TRV",
+        "route_ids": [
+          "092"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6873,
+          38.0165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stop_id": "1038",
+        "stop_code": "1038",
+        "stop_name": "Av. Asociación Victimas del Terrorismo, 190 _TRV",
+        "route_ids": [
+          "086"
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.6739,
+          38.0024
+        ]
+      }
+    }
+  ]
+}
