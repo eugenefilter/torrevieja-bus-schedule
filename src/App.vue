@@ -273,6 +273,12 @@ onMounted(async () => {
     stops.value = (await stopsResponse.json()).features
     routes.value = (await routesResponse.json()).features
     transitData.value = await transitResponse.json()
+    const todayKey = new Date().toISOString().slice(0, 10).replaceAll('-', '')
+    if (scheduleDates.value.includes(todayKey)) {
+      selectedScheduleDate.value = todayKey
+    } else if (scheduleDates.value.length > 0) {
+      selectedScheduleDate.value = scheduleDates.value[0]
+    }
     await nextTick()
     map = L.map(mapEl.value, {
       center: [37.9786, -0.6821],
@@ -291,6 +297,11 @@ onMounted(async () => {
 
 watch([filteredRoutes, filteredStops], () => renderMapData({ preserveView: Boolean(selectedStopId.value) }))
 watch(selectedStopId, updateSelectedStopMarker)
+watch(selectedRoute, () => {
+  selectedStopId.value = ''
+  selectedStopRouteId.value = ''
+  stopQuery.value = ''
+})
 </script>
 
 <template>

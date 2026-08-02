@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git checkout *)",
+      "Bash(npm run *)",
+      "Bash(nohup npm run dev)",
+      "Read(//tmp/**)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:5174/data/geojson/stops.geojson)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:5174/torrevieja-bus-schedule/data/geojson/stops.geojson)",
+      "Bash(pkill -f \"vite preview\")",
+      "Bash(pkill -f \"vite$\")",
+      "Bash(npm install *)",
+      "Bash(nohup npx vite preview --port 4173)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:4173/data/geojson/stops.geojson)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:4173/torrevieja-bus-schedule/data/geojson/stops.geojson)",
+      "Bash(npx vite *)",
+      "Bash(nohup npx vite preview --outDir /tmp/dist-preview --base=/ --port 4174)",
+      "Bash(curl -s -o /dev/null -w \"%{http_code}\\\\n\" http://localhost:4174/data/geojson/stops.geojson)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(cd *)",
+      "Bash(git push *)",
+      "Skill(commit)"
+    ]
+  }
+}
