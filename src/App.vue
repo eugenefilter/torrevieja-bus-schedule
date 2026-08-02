@@ -533,8 +533,8 @@ watch(nearbyRadius, () => {
       </div>
     </section>
 
-    <section class="mb-4 grid grid-cols-1 items-stretch gap-4 md:grid-cols-[minmax(300px,380px)_minmax(0,1fr)]">
-      <aside class="flex min-h-0 flex-col gap-3 md:min-h-[640px]">
+    <section class="content-grid mb-4 grid items-start gap-4">
+      <aside class="[grid-area:search] flex min-h-0 flex-col gap-3">
         <label class="grid gap-1.5 text-xs font-semibold text-slate-500 dark:text-neutral-400">
           Search stops, addresses or places
           <div class="relative">
@@ -699,12 +699,12 @@ watch(nearbyRadius, () => {
         </div>
       </aside>
 
-      <section class="min-h-[400px] overflow-hidden rounded-2xl border border-slate-200 bg-slate-100 shadow-md md:min-h-[640px] dark:border-neutral-800 dark:bg-neutral-900">
+      <section class="[grid-area:map] min-h-[400px] overflow-hidden rounded-2xl border border-slate-200 bg-slate-100 shadow-md md:min-h-[640px] dark:border-neutral-800 dark:bg-neutral-900">
         <div v-if="loadError" class="grid min-h-[400px] place-items-center p-6 text-center font-semibold text-red-600 md:min-h-[560px] dark:text-red-400">{{ loadError }}</div>
         <div v-else ref="mapEl" class="h-[min(72vh,760px)] min-h-[400px] w-full md:min-h-[640px]" aria-label="Torrevieja bus route map"></div>
       </section>
 
-      <div v-if="scheduleRouteIds.length > 0" class="grid gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm md:col-start-1 dark:border-neutral-800 dark:bg-neutral-900">
+      <div v-if="scheduleRouteIds.length > 0" class="[grid-area:departures] grid gap-3 rounded-xl border border-slate-200 bg-white p-4 shadow-sm dark:border-neutral-800 dark:bg-neutral-900">
         <div class="flex items-start justify-between gap-2.5">
           <div class="grid gap-0.5">
             <strong class="font-bold tracking-tight text-slate-900 dark:text-neutral-100">Departures</strong>
@@ -751,3 +751,17 @@ watch(nearbyRadius, () => {
     </section>
   </main>
 </template>
+
+<style scoped>
+.content-grid {
+  grid-template-columns: 1fr;
+  grid-template-areas: 'search' 'map' 'departures';
+}
+
+@media (min-width: 768px) {
+  .content-grid {
+    grid-template-columns: minmax(300px, 380px) minmax(0, 1fr);
+    grid-template-areas: 'search map' 'departures map';
+  }
+}
+</style>
