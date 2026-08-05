@@ -85,7 +85,9 @@ const filteredRoutes = computed(() => {
     ? new Set([selectedStopRouteId.value])
     : selectedStopId.value
       ? selectedStopRouteIds.value
-      : null
+      : selectedLocation.value
+        ? new Set(nearbyStops.value.flatMap((entry) => entry.stop.properties.route_ids))
+        : null
 
   return routes.value.filter((route) => {
     const byRoute = selectedRoute.value === 'all' || route.properties.route_id === selectedRoute.value
@@ -150,18 +152,84 @@ const publicRouteNames = (routeIds) =>
     .map((routeId) => routeById.value.get(routeId)?.linweb ?? routeId)
     .sort((a, b) => a.localeCompare(b, undefined, { numeric: true }))
 
-const scheduleDates = computed(() => {
-  const dates = new Set()
-  for (const trip of transitData.value?.trips ?? []) {
-    const date = trip.service_id.replace('official-', '')
-    if (/^\d{8}$/.test(date)) dates.add(date)
-  }
-  return [...dates].sort()
-})
-
 const formattedScheduleDate = (date) => `${date.slice(6, 8)}.${date.slice(4, 6)}.${date.slice(0, 4)}`
 
 const directionLabel = (directionId) => (Number(directionId) === 0 ? 'Ida' : 'Vuelta')
+
+const calendarOpen = ref(false)
+const calendarCursor = ref(new Date())
+const scheduleDatePickerEl = ref(null)
+const weekdayLabels = ['Mo', 'Tu', 'We', 'Th', 'Fr', 'Sa', 'Su']
+
+const pad2 = (n) => String(n).padStart(2, '0')
+const dateKeyFromParts = (year, month, day) => `${year}${pad2(month + 1)}${pad2(day)}`
+const partsFromDateKey = (key) => ({ year: Number(key.slice(0, 4)), month: Number(key.slice(4, 6)) - 1, day: Number(key.slice(6, 8)) })
+
+// The scraped data only contains one sample date per day-type (weekday / Saturday / Sunday).
+// Those patterns repeat every week, so any calendar date is resolved to whichever sample matches its day of week.
+const serviceIdByDayType = computed(() => {
+  const services = transitData.value?.services ?? []
+  const weekday = services.find((s) => s.monday || s.tuesday || s.wednesday || s.thursday || s.friday)
+  const saturday = services.find((s) => s.saturday)
+  const sunday = services.find((s) => s.sunday)
+  return { weekday: weekday?.service_id, saturday: saturday?.service_id, sunday: sunday?.service_id }
+})
+
+const serviceIdForDateKey = (key) => {
+  const { year, month, day } = partsFromDateKey(key)
+  const dayOfWeek = new Date(year, month, day).getDay()
+  if (dayOfWeek === 0) return serviceIdByDayType.value.sunday
+  if (dayOfWeek === 6) return serviceIdByDayType.value.saturday
+  return serviceIdByDayType.value.weekday
+}
+
+const calendarMonthLabel = computed(() =>
+  calendarCursor.value.toLocaleDateString('en-US', { month: 'long', year: 'numeric' }),
+)
+
+const calendarDays = computed(() => {
+  const year = calendarCursor.value.getFullYear()
+  const month = calendarCursor.value.getMonth()
+  const firstOfMonth = new Date(year, month, 1)
+  const startOffset = (firstOfMonth.getDay() + 6) % 7
+  const startDate = new Date(year, month, 1 - startOffset)
+
+  return Array.from({ length: 42 }, (_, index) => {
+    const date = new Date(startDate.getFullYear(), startDate.getMonth(), startDate.getDate() + index)
+    const key = dateKeyFromParts(date.getFullYear(), date.getMonth(), date.getDate())
+    return {
+      key,
+      dayNumber: date.getDate(),
+      inCurrentMonth: date.getMonth() === month,
+    }
+  })
+})
+
+const calendarShiftMonth = (delta) => {
+  calendarCursor.value = new Date(calendarCursor.value.getFullYear(), calendarCursor.value.getMonth() + delta, 1)
+}
+
+const openCalendar = () => {
+  const { year, month } = partsFromDateKey(selectedScheduleDate.value)
+  calendarCursor.value = new Date(year, month, 1)
+  calendarOpen.value = true
+}
+
+const toggleCalendar = () => {
+  if (calendarOpen.value) calendarOpen.value = false
+  else openCalendar()
+}
+
+const selectCalendarDate = (key) => {
+  selectedScheduleDate.value = key
+  calendarOpen.value = false
+}
+
+const handleDocumentClick = (event) => {
+  if (calendarOpen.value && scheduleDatePickerEl.value && !scheduleDatePickerEl.value.contains(event.target)) {
+    calendarOpen.value = false
+  }
+}
 
 const scheduleRouteIds = computed(() => {
   if (selectedStop.value) {
@@ -185,7 +253,7 @@ const scheduleGroups = computed(() => {
 
   for (const trip of transitData.value.trips) {
     if (!routeIds.has(trip.route_id)) continue
-    if (trip.service_id !== `official-${selectedScheduleDate.value}`) continue
+    if (trip.service_id !== serviceIdForDateKey(selectedScheduleDate.value)) continue
     if (selectedDirection.value !== 'all' && String(trip.direction_id) !== selectedDirection.value) continue
 
     const stopTime = stopTimesByTripId.value.get(trip.trip_id)
@@ -418,11 +486,7 @@ onMounted(async () => {
     stops.value = (await stopsResponse.json()).features
     routes.value = (await routesResponse.json()).features
     transitData.value = await transitResponse.json()
-    if (scheduleDates.value.includes(todayKey.value)) {
-      selectedScheduleDate.value = todayKey.value
-    } else if (scheduleDates.value.length > 0) {
-      selectedScheduleDate.value = scheduleDates.value[0]
-    }
+    selectedScheduleDate.value = todayKey.value
     await nextTick()
     map = L.map(mapEl.value, {
       center: [37.9786, -0.6821],
@@ -437,12 +501,16 @@ onMounted(async () => {
   } catch (error) {
     loadError.value = error.message
   }
+  document.addEventListener('click', handleDocumentClick)
 })
 
 const nowInterval = setInterval(() => {
   now.value = new Date()
 }, 30000)
-onUnmounted(() => clearInterval(nowInterval))
+onUnmounted(() => {
+  clearInterval(nowInterval)
+  document.removeEventListener('click', handleDocumentClick)
+})
 
 watch([filteredRoutes, filteredStops], () => renderMapData({ preserveView: Boolean(selectedStopId.value) }))
 watch(selectedStopId, updateSelectedStopMarker)
@@ -710,17 +778,60 @@ watch(nearbyRadius, () => {
             <strong class="font-bold tracking-tight text-slate-900 dark:text-neutral-100">Departures</strong>
             <span class="text-[13px] text-slate-500 dark:text-neutral-400">from route origin</span>
           </div>
-          <div class="relative">
-            <select
-              v-model="selectedScheduleDate"
+          <div class="relative" ref="scheduleDatePickerEl">
+            <button
+              type="button"
               name="schedule-date"
-              class="h-9 min-w-[120px] cursor-pointer appearance-none rounded-lg border border-slate-200 bg-white py-0 pl-3 pr-7 text-sm text-slate-900 shadow-sm transition hover:border-slate-300 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/25 dark:border-neutral-800 dark:bg-neutral-900 dark:text-neutral-100 dark:hover:border-neutral-700"
+              @click="toggleCalendar"
+              :aria-expanded="calendarOpen"
+              class="flex h-9 min-w-[120px] cursor-pointer items-center gap-2 rounded-lg border border-slate-200 bg-white py-0 pl-3 pr-2.5 text-sm text-slate-900 shadow-sm transition hover:border-slate-300 focus:border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500/25 dark:border-neutral-800 dark:bg-neutral-900 dark:text-neutral-100 dark:hover:border-neutral-700"
             >
-              <option v-for="date in scheduleDates" :key="date" :value="date">
-                {{ formattedScheduleDate(date) }}
-              </option>
-            </select>
-            <svg class="pointer-events-none absolute right-2.5 top-1/2 h-3 w-3 -translate-y-1/2 text-slate-400 dark:text-neutral-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="6 9 12 15 18 9" /></svg>
+              <svg class="h-3.5 w-3.5 shrink-0 text-slate-400 dark:text-neutral-500" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="18" height="18" rx="2" /><line x1="16" y1="2" x2="16" y2="6" /><line x1="8" y1="2" x2="8" y2="6" /><line x1="3" y1="10" x2="21" y2="10" /></svg>
+              <span>{{ formattedScheduleDate(selectedScheduleDate) }}</span>
+            </button>
+
+            <div
+              v-if="calendarOpen"
+              class="absolute right-0 top-[calc(100%+6px)] z-10 w-64 rounded-xl border border-slate-200 bg-white p-3 shadow-lg dark:border-neutral-800 dark:bg-neutral-900"
+            >
+              <div class="mb-2 flex items-center justify-between">
+                <button
+                  type="button"
+                  @click="calendarShiftMonth(-1)"
+                  class="grid h-7 w-7 place-items-center rounded-md text-slate-500 transition hover:bg-slate-100 dark:text-neutral-400 dark:hover:bg-neutral-800"
+                >
+                  <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="15 18 9 12 15 6" /></svg>
+                </button>
+                <strong class="text-[13px] font-semibold text-slate-900 dark:text-neutral-100">{{ calendarMonthLabel }}</strong>
+                <button
+                  type="button"
+                  @click="calendarShiftMonth(1)"
+                  class="grid h-7 w-7 place-items-center rounded-md text-slate-500 transition hover:bg-slate-100 dark:text-neutral-400 dark:hover:bg-neutral-800"
+                >
+                  <svg class="h-3.5 w-3.5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><polyline points="9 18 15 12 9 6" /></svg>
+                </button>
+              </div>
+
+              <div class="mb-1 grid grid-cols-7 gap-1 text-center text-[10.5px] font-medium text-slate-400 dark:text-neutral-500">
+                <span v-for="label in weekdayLabels" :key="label">{{ label }}</span>
+              </div>
+
+              <div class="grid grid-cols-7 gap-1">
+                <button
+                  v-for="day in calendarDays"
+                  :key="day.key"
+                  type="button"
+                  @click="selectCalendarDate(day.key)"
+                  class="grid h-7 w-7 cursor-pointer place-items-center rounded-md text-[12px] tabular-nums transition"
+                  :class="[
+                    day.inCurrentMonth ? 'text-slate-900 dark:text-neutral-100' : 'text-slate-300 dark:text-neutral-700',
+                    day.key === selectedScheduleDate
+                      ? 'bg-blue-600 font-semibold text-white shadow-sm dark:bg-blue-500'
+                      : 'hover:bg-blue-50 dark:hover:bg-neutral-800',
+                  ]"
+                >{{ day.dayNumber }}</button>
+              </div>
+            </div>
           </div>
         </div>
 
